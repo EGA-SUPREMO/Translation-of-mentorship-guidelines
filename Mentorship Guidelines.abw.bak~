@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Thu May 14 14:04:32 2020
+<m key="abiword.date_last_changed">Thu May 14 14:02:25 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,9 +19,9 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="7" edit-time="920" last-saved="1589479472" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="6" edit-time="915" last-saved="1589479345" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
-<version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
+<version id="6" started="1589478854" uid="10fd5422-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
