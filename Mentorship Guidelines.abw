@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="498" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="530" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Thu May 14 13:19:04 2020
+<m key="abiword.date_last_changed">Thu May 14 13:54:14 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,25 +19,26 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="1" edit-time="17" last-saved="1589476744" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="2" edit-time="302" last-saved="1589478854" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
+<version id="2" started="1589478854" uid="ecb1fd80-960b-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 </history>
 <styles>
-<s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
+<s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
 <s type="P" name="normal" followedby="normal" props="text-align:left; dom-dir:ltr; orphans:2; widows:2"/>
 <s type="P" name="Standard" followedby="Standard" props="line-height:1.150000"/>
-<s type="P" name="Heading 1" basedon="normal" followedby="Standard" props="font-size:20pt; margin-top:0.278in; line-height:1.000000; margin-bottom:0.0835in; keep-with-next:yes"/>
-<s type="P" name="Heading 2" basedon="normal" followedby="Standard" props="font-size:16pt; margin-top:0.25in; line-height:1.000000; margin-bottom:0.0835in; keep-with-next:yes; font-weight:normal"/>
+<s type="P" name="Heading 1" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:20pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:bold; font-family:Liberation Sans; margin-top:0.278in"/>
+<s type="P" name="Heading 2" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:16pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:normal; font-family:Liberation Sans; margin-top:0.25in"/>
 <s type="P" name="Caption" basedon="Standard" followedby="Caption" props="margin-top:0.0835in; font-size:12pt; margin-bottom:0.0835in; font-style:italic"/>
 <s type="P" name="Heading" basedon="Standard" followedby="Text body" props="margin-top:0.1665in; keep-with-next:yes; margin-bottom:0.0835in; font-family:Liberation Sans; font-size:14pt"/>
-<s type="P" name="Heading 3" basedon="normal" followedby="Standard" props="margin-top:0.222in; font-size:14pt; margin-bottom:0.0555in; line-height:1.000000; color:#434343; font-weight:normal; keep-with-next:yes"/>
-<s type="P" name="Heading 4" basedon="normal" followedby="Standard" props="font-size:12pt; color:#666666; margin-top:0.1945in; line-height:1.000000; margin-bottom:0.0555in; keep-with-next:yes"/>
-<s type="P" name="Heading 5" basedon="normal" followedby="Standard" props="font-size:11pt; color:#666666; margin-top:0.1665in; line-height:1.000000; margin-bottom:0.0555in; keep-with-next:yes"/>
-<s type="P" name="Heading 6" basedon="normal" followedby="Standard" props="margin-top:0.1665in; font-size:11pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-style:italic; keep-with-next:yes"/>
+<s type="P" name="Heading 3" basedon="normal" followedby="Standard" props="margin-top:0.222in; font-size:14pt; margin-bottom:0.0555in; line-height:1.000000; color:#434343; font-weight:normal; font-family:Liberation Sans; keep-with-next:yes"/>
+<s type="P" name="Heading 4" basedon="normal" followedby="Standard" props="margin-top:0.1945in; font-size:12pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-weight:bold; font-family:Liberation Sans; keep-with-next:yes"/>
+<s type="P" name="Heading 5" basedon="normal" followedby="Standard" props="line-height:1.000000; margin-top:0.1665in; font-size:11pt; margin-bottom:0.0555in; color:#666666; keep-with-next:yes"/>
+<s type="P" name="Heading 6" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:11pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-style:italic; margin-top:0.1665in"/>
 <s type="C" name="Internet link_text" followedby="Internet link_text" props="lang:zxx-none; text-decoration:underline; color:#000080"/>
 <s type="C" name="ListLabel 64_text" followedby="ListLabel 64_text" props="text-decoration:underline; color:#1155cc"/>
-<s type="P" name="Normal" props="lang:en-none; default-tab-interval:0.5in; font-size:11pt; font-family:Arial; dom-dir:ltr"/>
-<s type="P" name="Subtitle" basedon="normal" followedby="Standard" props="margin-top:0in; font-size:15pt; margin-bottom:0.222in; line-height:1.000000; color:#666666; font-style:normal; keep-with-next:yes; font-family:Arial"/>
+<s type="P" name="Normal" followedby="Current Settings" props="text-indent:0in; font-weight:normal; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:en-none; dom-dir:ltr; margin-bottom:0pt; default-tab-interval:0.5in; text-decoration:none; font-variant:normal; color:000000; text-position:normal; font-size:11pt; margin-right:0pt; font-style:normal; widows:2; font-family:Arial"/>
+<s type="P" name="Subtitle" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:15pt; margin-bottom:0.222in; line-height:1.000000; color:#666666; font-family:Arial; font-style:normal; margin-top:0in"/>
 <s type="P" name="Text body" basedon="Standard" followedby="Text body" props="margin-top:0in; line-height:1.150000; margin-bottom:0.0972in"/>
 </styles>
 <lists>
@@ -51,364 +52,366 @@
 </lists>
 <pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
 <section xid="5" props="page-margin-right:1in; page-width:8.5in; page-margin-left:1in; page-orientation:portrait; page-margin-bottom:1in; page-margin-top:1in; page-height:11in">
-<p style="Title" xid="6" props="text-align:center"><bookmark type="start" name="_4d2v6zngb7zo" xid="7"/><bookmark type="end" name="_4d2v6zngb7zo" xid="8"/>Coding Coach Mentorship Guidelines</p>
-<p style="Heading 1" xid="9" props="text-align:center"><bookmark type="start" name="_pakiknncxj1b" xid="10"/><bookmark type="end" name="_pakiknncxj1b" xid="11"/><image dataid="0" xid="12" props="height:2.3425in; width:2.3425in"/></p>
-<p style="Standard" xid="13"><c></c></p>
-<p style="Standard" xid="14"><c></c></p>
-<p style="Standard" xid="15"><c></c></p>
-<p style="Standard" xid="16"><c></c></p>
-<p style="Standard" xid="17"><c></c></p>
-<p style="Standard" xid="18"><c></c></p>
-<p style="Standard" xid="19"><c></c></p>
-<p style="Standard" xid="20"><c></c></p>
-<p style="Standard" xid="21"><c></c></p>
-<p style="Standard" xid="22"><c></c></p>
-<p style="Standard" xid="23"><c></c></p>
-<p style="Standard" xid="24"><c></c></p>
-<p style="Standard" xid="25"><c></c></p>
-<p style="Standard" xid="26"><c></c></p>
-<p style="Standard" xid="27"><c></c></p>
-<p style="Standard" xid="28"><c></c></p>
-<p style="Standard" xid="29"><c></c></p>
-<p style="Standard" xid="30"><c></c></p>
-<p style="Standard" xid="31"><c></c></p>
-<p style="Standard" xid="32"><c></c></p>
-<p style="Standard" xid="33"><c></c></p>
-<p style="Standard" xid="34"><c></c></p>
-<p style="Standard" xid="35"><c></c></p>
-<p style="Standard" xid="36"><c></c></p>
-<p style="Standard" xid="37"><c></c></p>
-<p style="Standard" xid="38"><c></c></p>
-<p style="Standard" xid="39"><c></c></p>
-<p style="Standard" xid="40">Welcome to the Coding Coach Mentorship Guidelines! We’re happy you’re here.</p>
-<p style="Standard" xid="41"><c></c></p>
-<p style="Standard" xid="42">Taking the first step towards a mentorship can be a little daunting. It’s never easy to ask someone if they will take you under their wing and give you guidance. So we’re here to provide some guidelines to get you started!</p>
-<p style="Standard" xid="43"><c></c></p>
-<p style="Standard" xid="44">If you have any additional questions, feel free to send us an email at <a xlink:href="mailto:admin@codingcoach.io" xid="45"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c></a>.</p>
-<p style="Standard" xid="47"><c></c></p>
-<p style="Standard" xid="48"><c></c></p>
-<p style="Heading 1" xid="49"><bookmark type="start" name="_rsbilwyn6wvb" xid="50"/><bookmark type="end" name="_rsbilwyn6wvb" xid="51"/></p>
-<p style="Standard" xid="52"><c></c></p>
-<p style="Standard" xid="53"><c></c></p>
-<p style="Standard" xid="54"><c></c></p>
-<p style="Standard" xid="55"><c></c></p>
-<p style="Standard" xid="56"><c></c></p>
-<p style="Standard" xid="57"><c></c></p>
-<p style="Standard" xid="58"><c></c></p>
-<p style="Standard" xid="59"><c></c></p>
-<p style="Standard" xid="60"><c></c></p>
-<p style="Standard" xid="61"><c></c></p>
-<p style="Standard" xid="62"><c></c></p>
-<p style="Standard" xid="63"><c></c></p>
-<p style="Heading 1" xid="64"><bookmark type="start" name="_yvs2ttxrffeg" xid="65"/><bookmark type="end" name="_yvs2ttxrffeg" xid="66"/></p>
-<p style="Heading 1" xid="67"><bookmark type="start" name="_x2jbaeuwmsuy" xid="68"/><bookmark type="end" name="_x2jbaeuwmsuy" xid="69"/></p>
-<p style="Heading 1" xid="70"><bookmark type="start" name="_ubg52r56vb2b" xid="71"/><bookmark type="end" name="_ubg52r56vb2b" xid="72"/></p>
-<p style="Heading 1" xid="73"><bookmark type="start" name="_htr809ef9j0t" xid="74"/><bookmark type="end" name="_htr809ef9j0t" xid="75"/></p>
-<p style="Heading 1" xid="76"><bookmark type="start" name="_focq2s1svmf9" xid="77"/><bookmark type="end" name="_focq2s1svmf9" xid="78"/></p>
-<p style="Standard" xid="79"><c></c></p>
-<p style="Heading 1" xid="80"><bookmark type="start" name="_bmpgxrsrzv33" xid="81"/><bookmark type="end" name="_bmpgxrsrzv33" xid="82"/>Table Of Contents</p>
-<p xid="83"><c></c></p>
-<toc xid="84" props="toc-has-heading:0; toc-dest-style4:Normal; toc-dest-style1:Normal; toc-dest-style2:Normal; toc-dest-style3:Normal; toc-heading-style:Normal">
-</toc><p style="Standard" xid="85"><c></c></p>
-<p style="Standard" xid="86"><c></c></p>
-<p style="Standard" xid="87"><c></c></p>
-<p style="Standard" xid="88"><c></c></p>
-<p style="Standard" xid="89"><c></c></p>
-<p style="Heading 1" xid="90"><bookmark type="start" name="_jlhct9fw0urf" xid="91"/><bookmark type="end" name="_jlhct9fw0urf" xid="92"/>Mentorship Dictionary</p>
+<p style="Title" xid="6" props="text-align:center; dom-dir:ltr"><bookmark type="start" name="_4d2v6zngb7zo" xid="502"/><bookmark xml:id="" type="end" name="_4d2v6zngb7zo" xid="501"/><c>Pautas de Mentoría de Coding Coach</c></p>
+<p style="Heading 1" xid="526" props="text-align:center"><bookmark type="start" name="_pakiknncxj1b" xid="10"/><bookmark xml:id="" type="end" name="_pakiknncxj1b" xid="11"/><image dataid="0" xid="12" props="height:2.3425in; width:2.3425in"/></p>
+<p style="Standard" xid="13"><c></c><c></c></p>
+<p style="Standard" xid="14"><c></c><c></c></p>
+<p style="Standard" xid="15"><c></c><c></c></p>
+<p style="Standard" xid="16"><c></c><c></c></p>
+<p style="Standard" xid="17"><c></c><c></c></p>
+<p style="Standard" xid="18"><c></c><c></c></p>
+<p style="Standard" xid="19"><c></c><c></c></p>
+<p style="Standard" xid="20"><c></c><c></c></p>
+<p style="Standard" xid="21"><c></c><c></c></p>
+<p style="Standard" xid="22"><c></c><c></c></p>
+<p style="Standard" xid="23"><c></c><c></c></p>
+<p style="Standard" xid="24"><c></c><c></c></p>
+<p style="Standard" xid="25"><c></c><c></c></p>
+<p style="Standard" xid="26"><c></c><c></c></p>
+<p style="Standard" xid="27"><c></c><c></c></p>
+<p style="Standard" xid="28"><c></c><c></c></p>
+<p style="Standard" xid="29"><c></c><c></c></p>
+<p style="Standard" xid="30"><c></c><c></c></p>
+<p style="Standard" xid="31"><c></c><c></c></p>
+<p style="Standard" xid="32"><c></c><c></c></p>
+<p style="Standard" xid="33"><c></c><c></c></p>
+<p style="Standard" xid="34"><c></c><c></c></p>
+<p style="Standard" xid="35"><c></c><c></c></p>
+<p style="Standard" xid="36"><c></c><c></c></p>
+<p style="Standard" xid="37"><c></c><c></c></p>
+<p style="Standard" xid="505"><c></c></p>
+<p style="Standard" xid="506"><c></c></p>
+<p style="Standard" xid="38"><c></c><c></c></p>
+<p style="Standard" xid="39"><c></c><c></c></p>
+<p style="Standard" xid="525"><c></c><c>¡Bienvenido a las Pautas de Mentoría de Coding Coach! Estamos felices de que estés aquí.</c></p>
+<p style="Standard" xid="515" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="518" props="text-align:left; dom-dir:ltr"><c>Dar el primer paso hacia una mentoría puede ser un poco desalentador. Nunca es fácil preguntarle a alguien si lo tomará bajo su protección y le dará orientación. ¡Así que estamos aquí para brindarle algunas pautas para comenzar!</c></p>
+<p style="Standard" xid="521" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="522" props="text-align:left; dom-dir:ltr"><c>Si tiene alguna pregunta adicional, no dude en enviarnos un correo electrónico a </c><a xlink:href="mailto:admin@codingcoach.io" xid="524"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c><c props="text-decoration:underline; color:#1155cc"></c></a>.</p>
+<p style="Standard" xid="47"><c></c><c></c></p>
+<p style="Standard" xid="48"><c></c><c></c></p>
+<p style="Heading 1" xid="49"><bookmark type="start" name="_rsbilwyn6wvb" xid="50"/><bookmark xml:id="" type="end" name="_rsbilwyn6wvb" xid="51"/></p>
+<p style="Standard" xid="52"><c></c><c></c></p>
+<p style="Standard" xid="53"><c></c><c></c></p>
+<p style="Standard" xid="54"><c></c><c></c></p>
+<p style="Standard" xid="55"><c></c><c></c></p>
+<p style="Standard" xid="56"><c></c><c></c></p>
+<p style="Standard" xid="57"><c></c><c></c></p>
+<p style="Standard" xid="58"><c></c><c></c></p>
+<p style="Standard" xid="59"><c></c><c></c></p>
+<p style="Standard" xid="60"><c></c><c></c></p>
+<p style="Standard" xid="61"><c></c><c></c></p>
+<p style="Standard" xid="62"><c></c><c></c></p>
+<p style="Standard" xid="63"><c></c><c></c></p>
+<p style="Heading 1" xid="64"><bookmark type="start" name="_yvs2ttxrffeg" xid="65"/><bookmark xml:id="" type="end" name="_yvs2ttxrffeg" xid="66"/></p>
+<p style="Heading 1" xid="67"><bookmark type="start" name="_x2jbaeuwmsuy" xid="68"/><bookmark xml:id="" type="end" name="_x2jbaeuwmsuy" xid="69"/></p>
+<p style="Heading 1" xid="70"><bookmark type="start" name="_ubg52r56vb2b" xid="71"/><bookmark xml:id="" type="end" name="_ubg52r56vb2b" xid="72"/></p>
+<p style="Heading 1" xid="73"><bookmark type="start" name="_htr809ef9j0t" xid="74"/><bookmark xml:id="" type="end" name="_htr809ef9j0t" xid="75"/></p>
+<p style="Heading 1" xid="76"><bookmark type="start" name="_focq2s1svmf9" xid="77"/><bookmark xml:id="" type="end" name="_focq2s1svmf9" xid="78"/></p>
+<p style="Standard" xid="79"><c></c><c></c></p>
+<p style="Heading 1" xid="80"><bookmark type="start" name="_bmpgxrsrzv33" xid="81"/><bookmark xml:id="" type="end" name="_bmpgxrsrzv33" xid="82"/>Table Of Contents</p>
+<p xid="83"><c></c><c></c></p>
+<toc xid="84" props="toc-has-heading:0; toc-heading-style:Normal; toc-dest-style1:Normal; toc-dest-style2:Normal; toc-dest-style3:Normal; toc-dest-style4:Normal">
+</toc><p style="Standard" xid="85"><c></c><c></c></p>
+<p style="Standard" xid="86"><c></c><c></c></p>
+<p style="Standard" xid="87"><c></c><c></c></p>
+<p style="Standard" xid="88"><c></c><c></c></p>
+<p style="Standard" xid="89"><c></c><c></c></p>
+<p style="Heading 1" xid="90"><bookmark type="start" name="_jlhct9fw0urf" xid="91"/><bookmark xml:id="" type="end" name="_jlhct9fw0urf" xid="92"/>Mentorship Dictionary</p>
 <p style="Standard" xid="93">Below are some of the terms you may hear in relation to mentorship.</p>
-<p style="Heading 2" xid="94"><bookmark type="start" name="_6uez3yjk1vrf" xid="95"/><bookmark type="end" name="_6uez3yjk1vrf" xid="96"/>Mentee</p>
+<p style="Heading 2" xid="94"><bookmark type="start" name="_6uez3yjk1vrf" xid="95"/><bookmark xml:id="" type="end" name="_6uez3yjk1vrf" xid="96"/>Mentee</p>
 <p style="Standard" xid="97">A mentee is someone who aspires to grow their skills in a particular topic or set of topics, and needs advice, assistance, support, and/or guidance.</p>
-<p style="Heading 2" xid="98" props="text-align:center"><bookmark type="start" name="_squwg0d8gk4d" xid="99"/><bookmark type="end" name="_squwg0d8gk4d" xid="100"/><image dataid="1" xid="101" props="height:2.2839in; width:3.5366in"/></p>
-<p style="Heading 2" xid="102"><bookmark type="start" name="_bb7ga1evkmiu" xid="103"/><bookmark type="end" name="_bb7ga1evkmiu" xid="104"/>Mentor</p>
+<p style="Heading 2" xid="98" props="text-align:center"><bookmark type="start" name="_squwg0d8gk4d" xid="99"/><bookmark xml:id="" type="end" name="_squwg0d8gk4d" xid="100"/><image dataid="1" xid="101" props="height:2.2839in; width:3.5366in"/></p>
+<p style="Heading 2" xid="102"><bookmark type="start" name="_bb7ga1evkmiu" xid="103"/><bookmark xml:id="" type="end" name="_bb7ga1evkmiu" xid="104"/>Mentor</p>
 <p style="Standard" xid="105">A mentor is someone confident enough with their experiences and knowledge in a particular topic or set of topics, to comfortably assist others with less experience or knowledge.</p>
-<p style="Standard" xid="106"><c></c></p>
+<p style="Standard" xid="106"><c></c><c></c></p>
 <p style="Standard" xid="107" props="text-align:center"><image dataid="2" xid="108" props="height:2.2508in; width:3.2134in"/></p>
-<p style="Standard" xid="109"><c></c></p>
-<p style="Standard" xid="110"><c></c></p>
-<p style="Standard" xid="111"><c></c></p>
-<p style="Heading 2" xid="112"><bookmark type="start" name="_w81nns9vp694" xid="113"/><bookmark type="end" name="_w81nns9vp694" xid="114"/>Mentorship</p>
+<p style="Standard" xid="109"><c></c><c></c></p>
+<p style="Standard" xid="110"><c></c><c></c></p>
+<p style="Standard" xid="111"><c></c><c></c></p>
+<p style="Heading 2" xid="112"><bookmark type="start" name="_w81nns9vp694" xid="113"/><bookmark xml:id="" type="end" name="_w81nns9vp694" xid="114"/>Mentorship</p>
 <p style="Standard" xid="115">A mentorship is the relationship formed between two people, a mentor and a mentee, in which the mentor provides guidance or shares knowledge with the mentee in order to improve their skills or confidence.</p>
-<p style="Standard" xid="116"><c></c></p>
+<p style="Standard" xid="116"><c></c><c></c></p>
 <p style="Standard" xid="117" props="text-align:center"><image dataid="3" xid="118" props="height:2.422in; width:3.6953in"/></p>
-<p style="Standard" xid="119"><c></c></p>
-<p style="Heading 1" xid="120" props="margin-top:0in; line-height:1.000000; margin-bottom:0.0835in"><bookmark type="start" name="_obqwljlyv2mu" xid="121"/><bookmark type="end" name="_obqwljlyv2mu" xid="122"/></p>
-<p style="Standard" xid="123" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="124" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="125" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="126" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="127" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="128" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="129" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="130" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="131" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="132" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="133" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="134" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="135" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="136" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="137" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="138" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="139" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="140" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="141" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Standard" xid="142" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c></p>
-<p style="Heading 1" xid="143"><bookmark type="start" name="_lr01jy8hjp63" xid="144"/><bookmark type="end" name="_lr01jy8hjp63" xid="145"/>Why Mentorship?</p>
+<p style="Standard" xid="119"><c></c><c></c></p>
+<p style="Heading 1" xid="120" props="margin-top:0in; line-height:1.000000; margin-bottom:0.0835in"><bookmark type="start" name="_obqwljlyv2mu" xid="121"/><bookmark xml:id="" type="end" name="_obqwljlyv2mu" xid="122"/></p>
+<p style="Standard" xid="123" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="124" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="125" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="126" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="127" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="128" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="129" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="130" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="131" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="132" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="133" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="134" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="135" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="136" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="137" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="138" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="139" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="140" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="141" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Standard" xid="142" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
+<p style="Heading 1" xid="143"><bookmark type="start" name="_lr01jy8hjp63" xid="144"/><bookmark xml:id="" type="end" name="_lr01jy8hjp63" xid="145"/>Why Mentorship?</p>
 <p style="Standard" xid="146">Mentorship is a powerful tool which can help new hires looking to gain a foothold in an industry. Additionally, mentorship can provide great benefits to more experienced professionals looking to enhance their skills in a particular area.</p>
-<p style="Standard" xid="147"><c></c></p>
+<p style="Standard" xid="147"><c></c><c></c></p>
 <p style="Standard" xid="148">When you learn from someone who has gone through similar struggles and come out the other side, you gain invaluable knowledge and experience.</p>
-<p style="Standard" xid="149"><c></c></p>
+<p style="Standard" xid="149"><c></c><c></c></p>
 <p style="Standard" xid="150">Perhaps you’ve been struggling with a challenging coding problem for weeks, or perhaps you’re debating a career switch and want to talk about the new role in-depth prior to committing. Mentorship can offer you all of these benefits and more.</p>
-<p style="Standard" xid="151"><c></c></p>
+<p style="Standard" xid="151"><c></c><c></c></p>
 <p style="Standard" xid="152">Mentorship also provides you with a physical connection in your industry. Having these connections can make you feel more confident in your abilities to conquer your job.</p>
-<p style="Standard" xid="153"><c></c></p>
-<p style="Heading 1" xid="154"><bookmark type="start" name="_barw0v8wh8t7" xid="155"/><bookmark type="end" name="_barw0v8wh8t7" xid="156"/></p>
-<p style="Heading 1" xid="157"><bookmark type="start" name="_1fwp60yl7vui" xid="158"/><bookmark type="end" name="_1fwp60yl7vui" xid="159"/></p>
-<p style="Heading 1" xid="160"><bookmark type="start" name="_fj1wxz16qhc2" xid="161"/><bookmark type="end" name="_fj1wxz16qhc2" xid="162"/></p>
-<p style="Heading 1" xid="163"><bookmark type="start" name="_2icoi1dhcwjc" xid="164"/><bookmark type="end" name="_2icoi1dhcwjc" xid="165"/></p>
-<p style="Heading 1" xid="166"><bookmark type="start" name="_twj32keb09is" xid="167"/><bookmark type="end" name="_twj32keb09is" xid="168"/></p>
-<p style="Standard" xid="169"><c></c></p>
-<p style="Standard" xid="170"><c></c></p>
-<p style="Standard" xid="171"><c></c></p>
-<p style="Standard" xid="172"><c></c></p>
-<p style="Standard" xid="173"><c></c></p>
-<p style="Standard" xid="174"><c></c></p>
-<p style="Standard" xid="175"><c></c></p>
-<p style="Standard" xid="176"><c></c></p>
-<p style="Standard" xid="177"><c></c></p>
-<p style="Heading 1" xid="178"><bookmark type="start" name="_p9xmgrtmua4u" xid="179"/><bookmark type="end" name="_p9xmgrtmua4u" xid="180"/>Why Coding Coach?</p>
+<p style="Standard" xid="153"><c></c><c></c></p>
+<p style="Heading 1" xid="154"><bookmark type="start" name="_barw0v8wh8t7" xid="155"/><bookmark xml:id="" type="end" name="_barw0v8wh8t7" xid="156"/></p>
+<p style="Heading 1" xid="157"><bookmark type="start" name="_1fwp60yl7vui" xid="158"/><bookmark xml:id="" type="end" name="_1fwp60yl7vui" xid="159"/></p>
+<p style="Heading 1" xid="160"><bookmark type="start" name="_fj1wxz16qhc2" xid="161"/><bookmark xml:id="" type="end" name="_fj1wxz16qhc2" xid="162"/></p>
+<p style="Heading 1" xid="163"><bookmark type="start" name="_2icoi1dhcwjc" xid="164"/><bookmark xml:id="" type="end" name="_2icoi1dhcwjc" xid="165"/></p>
+<p style="Heading 1" xid="166"><bookmark type="start" name="_twj32keb09is" xid="167"/><bookmark xml:id="" type="end" name="_twj32keb09is" xid="168"/></p>
+<p style="Standard" xid="169"><c></c><c></c></p>
+<p style="Standard" xid="170"><c></c><c></c></p>
+<p style="Standard" xid="171"><c></c><c></c></p>
+<p style="Standard" xid="172"><c></c><c></c></p>
+<p style="Standard" xid="173"><c></c><c></c></p>
+<p style="Standard" xid="174"><c></c><c></c></p>
+<p style="Standard" xid="175"><c></c><c></c></p>
+<p style="Standard" xid="176"><c></c><c></c></p>
+<p style="Standard" xid="177"><c></c><c></c></p>
+<p style="Heading 1" xid="178"><bookmark type="start" name="_p9xmgrtmua4u" xid="179"/><bookmark xml:id="" type="end" name="_p9xmgrtmua4u" xid="180"/>Why Coding Coach?</p>
 <p style="Standard" xid="181">Coding Coach was created to facilitate mentorships between experienced developers (mentors) and juniors (mentees). It provides the mentees with the ability to ask questions, seek advice or assistance in growing their web development skills and knowledge, and gain insight into their career path.</p>
-<p style="Standard" xid="182"><c></c></p>
+<p style="Standard" xid="182"><c></c><c></c></p>
 <p style="Standard" xid="183">Just because someone is a mentor in one area doesn’t mean they can’t be a mentee in a different area. We recognize people have strengths in certain skills and weaknesses in others. Thus it’s more than okay to play the role of both mentor and mentee.</p>
-<p style="Standard" xid="184"><c></c></p>
-<p style="Standard" xid="185">We created Coding Coach to be a <c props="font-weight:bold">free</c> platform in order to provide anyone, anywhere with the ability to foster a mentorship. We believe that mentorship should be accessible regardless of geographic location or financial well-being, so we set out to create an accessible application.</p>
-<p style="Standard" xid="186"><c></c></p>
+<p style="Standard" xid="184"><c></c><c></c></p>
+<p style="Standard" xid="185">We created Coding Coach to be a <c props="font-weight:bold">free</c><c props="font-weight:bold"></c> platform in order to provide anyone, anywhere with the ability to foster a mentorship. We believe that mentorship should be accessible regardless of geographic location or financial well-being, so we set out to create an accessible application.</p>
+<p style="Standard" xid="186"><c></c><c></c></p>
 <p style="Standard" xid="187">Coding Coach is open-source, meaning it’s built by the community, for the community. We wanted Coding Coach to provide all developers with the power to ideate on new features and help build the future of mentorship.</p>
-<p style="Standard" xid="188"><c></c></p>
-<p style="Heading 1" xid="189"><bookmark type="start" name="_rgln6ike572q" xid="190"/><bookmark type="end" name="_rgln6ike572q" xid="191"/></p>
-<p style="Heading 1" xid="192"><bookmark type="start" name="_8j0d85umvust" xid="193"/><bookmark type="end" name="_8j0d85umvust" xid="194"/></p>
-<p style="Heading 1" xid="195"><bookmark type="start" name="_6y9lc6qpqrxq" xid="196"/><bookmark type="end" name="_6y9lc6qpqrxq" xid="197"/></p>
-<p style="Heading 1" xid="198"><bookmark type="start" name="_noi8nm2py8l" xid="199"/><bookmark type="end" name="_noi8nm2py8l" xid="200"/></p>
-<p style="Heading 1" xid="201"><bookmark type="start" name="_bgf570dagw62" xid="202"/><bookmark type="end" name="_bgf570dagw62" xid="203"/></p>
-<p style="Heading 1" xid="204"><bookmark type="start" name="_2kazyp9a4y5j" xid="205"/><bookmark type="end" name="_2kazyp9a4y5j" xid="206"/></p>
-<p style="Standard" xid="207"><c></c></p>
-<p style="Standard" xid="208"><c></c></p>
-<p style="Standard" xid="209"><c></c></p>
-<p style="Heading 1" xid="210"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark type="end" name="_1yinzctfb3pc" xid="212"/>Approaching A Mentorship</p>
+<p style="Standard" xid="188"><c></c><c></c></p>
+<p style="Heading 1" xid="189"><bookmark type="start" name="_rgln6ike572q" xid="190"/><bookmark xml:id="" type="end" name="_rgln6ike572q" xid="191"/></p>
+<p style="Heading 1" xid="192"><bookmark type="start" name="_8j0d85umvust" xid="193"/><bookmark xml:id="" type="end" name="_8j0d85umvust" xid="194"/></p>
+<p style="Heading 1" xid="195"><bookmark type="start" name="_6y9lc6qpqrxq" xid="196"/><bookmark xml:id="" type="end" name="_6y9lc6qpqrxq" xid="197"/></p>
+<p style="Heading 1" xid="198"><bookmark type="start" name="_noi8nm2py8l" xid="199"/><bookmark xml:id="" type="end" name="_noi8nm2py8l" xid="200"/></p>
+<p style="Heading 1" xid="201"><bookmark type="start" name="_bgf570dagw62" xid="202"/><bookmark xml:id="" type="end" name="_bgf570dagw62" xid="203"/></p>
+<p style="Heading 1" xid="204"><bookmark type="start" name="_2kazyp9a4y5j" xid="205"/><bookmark xml:id="" type="end" name="_2kazyp9a4y5j" xid="206"/></p>
+<p style="Standard" xid="207"><c></c><c></c></p>
+<p style="Standard" xid="208"><c></c><c></c></p>
+<p style="Standard" xid="209"><c></c><c></c></p>
+<p style="Heading 1" xid="210"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark xml:id="" type="end" name="_1yinzctfb3pc" xid="212"/>Approaching A Mentorship</p>
 <p style="Standard" xid="213">A mentorship can take a variety of forms and lead to a variety of outcomes. It can be the kind of relationship that focuses on answering questions about a project that you’re stuck on, or about advice on learning a new language/technology/skill; or it can be about developing a learning plan for those who are self-taught. </p>
-<p style="Standard" xid="214"><c></c></p>
+<p style="Standard" xid="214"><c></c><c></c></p>
 <p style="Standard" xid="215">But it may also be the kind of relationship where advice is given/information shared about the industry, how to prepare for interviews, or a sharing of experiences about specific technologies or job roles. </p>
-<p style="Standard" xid="216"><c></c></p>
+<p style="Standard" xid="216"><c></c><c></c></p>
 <p style="Standard" xid="217">Be open to the possibility that you may connect with someone from the other side of the world, who may speak a different first language, or may be from another culture and/or country. </p>
-<p style="Standard" xid="218"><c></c></p>
+<p style="Standard" xid="218"><c></c><c></c></p>
 <p style="Standard" xid="219">This can pose a variety of challenges. If you’re based on opposite ends of the globe, you may choose to communicate in written form (email, Slack, or any other chat option) which allows ample time to respond without the pressure to arrange a specific meeting time.  Or perhaps you’re both living within the same time zone and decide to hold your mentorship meetings through a video conferencing tool. </p>
-<p style="Standard" xid="220"><c></c></p>
-<p style="Heading 2" xid="221"><bookmark type="start" name="_rk141wesbxcu" xid="222"/><bookmark type="end" name="_rk141wesbxcu" xid="223"/>Setting Mentorship Expectations</p>
+<p style="Standard" xid="220"><c></c><c></c></p>
+<p style="Heading 2" xid="221"><bookmark type="start" name="_rk141wesbxcu" xid="222"/><bookmark xml:id="" type="end" name="_rk141wesbxcu" xid="223"/>Setting Mentorship Expectations</p>
 <p style="Standard" xid="224">Whichever mentorship style you choose, you should set realistic expectations from the start. Think about how much time you can invest each day or week for communication. Communicate your expectations of the relationship as clearly as possible. Some questions you may want to address are:</p>
-<p level="1" listid="1020" parentid="0" style="" xid="225" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="226"></field>	What do you hope to achieve from the mentorship? </p>
-<p level="1" listid="1020" parentid="0" style="" xid="227" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="228"></field>	How much time are you willing and able to commit?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="229" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="230"></field>	Should the mentorship meetings be once a week, twice a week, once a month, or ad-hoc?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="231" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="232"></field>	Is this mentorship open-ended or do you need just a few sessions?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="233" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="234"></field>	What will your primary method of communication be?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="235" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="236"></field>	How do you want to track your progress?</p>
-<p style="Standard" xid="237"><c></c></p>
-<p style="Heading 2" xid="238"><bookmark type="start" name="_rhup49hoqpmd" xid="239"/><bookmark type="end" name="_rhup49hoqpmd" xid="240"/>Re-Evaluating Your Mentorship</p>
+<p level="1" listid="1020" parentid="0" style="" xid="225" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="226"></field>	What do you hope to achieve from the mentorship? </p>
+<p level="1" listid="1020" parentid="0" style="" xid="227" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="228"></field>	How much time are you willing and able to commit?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="229" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="230"></field>	Should the mentorship meetings be once a week, twice a week, once a month, or ad-hoc?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="231" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="232"></field>	Is this mentorship open-ended or do you need just a few sessions?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="233" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="234"></field>	What will your primary method of communication be?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="235" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="236"></field>	How do you want to track your progress?</p>
+<p style="Standard" xid="237"><c></c><c></c></p>
+<p style="Heading 2" xid="238"><bookmark type="start" name="_rhup49hoqpmd" xid="239"/><bookmark xml:id="" type="end" name="_rhup49hoqpmd" xid="240"/>Re-Evaluating Your Mentorship</p>
 <p style="Standard" xid="241">After a few mentorship sessions, it’s a good idea to re-evaluate your mentorship goals and assess your progress. A mentorship should only continue as long as both parties find the relationship to be valuable.</p>
-<p style="Standard" xid="242"><c></c></p>
-<p style="Heading 2" xid="243"><bookmark type="start" name="_nzzhxn30bt0p" xid="244"/><bookmark type="end" name="_nzzhxn30bt0p" xid="245"/>Ending A Mentorship</p>
+<p style="Standard" xid="242"><c></c><c></c></p>
+<p style="Heading 2" xid="243"><bookmark type="start" name="_nzzhxn30bt0p" xid="244"/><bookmark xml:id="" type="end" name="_nzzhxn30bt0p" xid="245"/>Ending A Mentorship</p>
 <p style="Standard" xid="246">If one or both of you decide that the mentorship is no longer serving its purpose, there’s no shame in pausing the mentorship or mutually ending it. You should never feel guilty about re-assessing the mentorship and ending it if that’s what’s best.</p>
-<p style="Standard" xid="247"><c></c></p>
+<p style="Standard" xid="247"><c></c><c></c></p>
 <p style="Standard" xid="248">If you’re thinking about ending your mentorship, here is one way you can respectfully end your mentorship.</p>
-<p style="Standard" xid="249"><c></c></p>
-<p style="Standard" xid="250"><c props="font-style:italic">“Hi &lt;name&gt;. I have truly appreciated the time we’ve spent during our mentorship sessions and I’ve learned a lot from you, however after reflecting upon my goals I’ve decided that it’s best to end our mentorship. I would love to stay in touch and keep the option on the table to revisit a possible mentorship in the future. Thank you again for your time.“</c></p>
-<p style="Standard" xid="251"><c></c></p>
-<p style="Heading 2" xid="252"><bookmark type="start" name="_2lbiau4t0uid" xid="253"/><bookmark type="end" name="_2lbiau4t0uid" xid="254"/>Assessing Your Mentorship Goals</p>
+<p style="Standard" xid="249"><c></c><c></c></p>
+<p style="Standard" xid="250"><c props="font-style:italic">“Hi &lt;name&gt;. I have truly appreciated the time we’ve spent during our mentorship sessions and I’ve learned a lot from you, however after reflecting upon my goals I’ve decided that it’s best to end our mentorship. I would love to stay in touch and keep the option on the table to revisit a possible mentorship in the future. Thank you again for your time.“</c><c props="font-style:italic"></c></p>
+<p style="Standard" xid="251"><c></c><c></c></p>
+<p style="Heading 2" xid="252"><bookmark type="start" name="_2lbiau4t0uid" xid="253"/><bookmark xml:id="" type="end" name="_2lbiau4t0uid" xid="254"/>Assessing Your Mentorship Goals</p>
 <p style="Standard" xid="255">If you both decide that you want to continue with the mentorship, you should revisit the established goals. </p>
-<p level="1" listid="1030" parentid="0" style="" xid="256" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="257"></field>	Are these goals still relevant and achievable? </p>
-<p level="1" listid="1030" parentid="0" style="" xid="258" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="259"></field>	Should I set new goals?</p>
-<p style="Standard" xid="260"><c></c></p>
+<p level="1" listid="1030" parentid="0" style="" xid="256" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="257"></field>	Are these goals still relevant and achievable? </p>
+<p level="1" listid="1030" parentid="0" style="" xid="258" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="259"></field>	Should I set new goals?</p>
+<p style="Standard" xid="260"><c></c><c></c></p>
 <p style="Standard" xid="261">Goals shouldn’t be too big or too small. They should be achievable within one or two sessions. For example if your overarching goal is to get better at React, set smaller goals which can be met by the next meeting. Your goals might look something like this:</p>
-<p level="1" listid="1050" parentid="0" style="" xid="262" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="263"></field>	Create one React functional component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="264" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="265"></field>	Integrate the React functional component into an application</p>
-<p level="1" listid="1050" parentid="0" style="" xid="266" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="267"></field>	Create one React stateful component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="268" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="269"></field>	Add state to the React component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="270" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="271"></field>	Update state on user input</p>
-<p style="Standard" xid="272"><c></c></p>
+<p level="1" listid="1050" parentid="0" style="" xid="262" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="263"></field>	Create one React functional component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="264" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="265"></field>	Integrate the React functional component into an application</p>
+<p level="1" listid="1050" parentid="0" style="" xid="266" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="267"></field>	Create one React stateful component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="268" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="269"></field>	Add state to the React component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="270" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="271"></field>	Update state on user input</p>
+<p style="Standard" xid="272"><c></c><c></c></p>
 <p style="Standard" xid="273">Mentorships can lead to more than just improved skills and networking; they could also lead to a new job, a travel opportunity,or a collaboration on a project. We hope that the connections made on Coding Coach will be enjoyed to the fullest!  </p>
-<p style="Standard" xid="274"><c></c></p>
-<p style="Standard" xid="275"><c></c></p>
-<p style="Standard" xid="276"><c></c></p>
-<p style="Standard" xid="277"><c></c></p>
-<p style="Standard" xid="278"><c></c></p>
-<p style="Standard" xid="279"><c></c></p>
-<p style="Standard" xid="280"><c></c></p>
-<p style="Heading 1" xid="281"><bookmark type="start" name="_pmzsl49zt7ao" xid="282"/><bookmark type="end" name="_pmzsl49zt7ao" xid="283"/>Types Of Mentorships</p>
+<p style="Standard" xid="274"><c></c><c></c></p>
+<p style="Standard" xid="275"><c></c><c></c></p>
+<p style="Standard" xid="276"><c></c><c></c></p>
+<p style="Standard" xid="277"><c></c><c></c></p>
+<p style="Standard" xid="278"><c></c><c></c></p>
+<p style="Standard" xid="279"><c></c><c></c></p>
+<p style="Standard" xid="280"><c></c><c></c></p>
+<p style="Heading 1" xid="281"><bookmark type="start" name="_pmzsl49zt7ao" xid="282"/><bookmark xml:id="" type="end" name="_pmzsl49zt7ao" xid="283"/>Types Of Mentorships</p>
 <p style="Standard" xid="284">There are several different types of mentorships you can take advantage of, and you don’t have to pick just one! You can have different mentors for different skills you want to improve. Below are two of the most common mentorships:</p>
-<p style="Heading 2" xid="285"><bookmark type="start" name="_ynmvs46k6ez" xid="286"/><bookmark type="end" name="_ynmvs46k6ez" xid="287"/>Career</p>
+<p style="Heading 2" xid="285"><bookmark type="start" name="_ynmvs46k6ez" xid="286"/><bookmark xml:id="" type="end" name="_ynmvs46k6ez" xid="287"/>Career</p>
 <p style="Standard" xid="288">If you’re looking to gain insight on a particular career field or if you’re thinking about switching roles, a career mentorship might be a good fit for you. These are typically professionals who are in a role similar to yours or are in the role you see yourself being in one day.</p>
-<p style="Standard" xid="289"><c></c></p>
+<p style="Standard" xid="289"><c></c><c></c></p>
 <p style="Standard" xid="290">Here are some questions you may want to ask your career mentor:</p>
-<p level="1" listid="1070" parentid="0" style="" xid="291" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="292"></field>	What was you career path into your current role?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="293" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="294"></field>	What was the biggest challenge you overcame?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="295" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="296"></field>	What types of roles are available with my skill set?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="297" props="text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; list-style:Bullet List; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="298"></field>	What skills should I improve to achieve this role?</p>
-<p style="Heading 2" xid="299"><bookmark type="start" name="_yk43f8axggjo" xid="300"/><bookmark type="end" name="_yk43f8axggjo" xid="301"/>Technical</p>
+<p level="1" listid="1070" parentid="0" style="" xid="291" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="292"></field>	What was you career path into your current role?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="293" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="294"></field>	What was the biggest challenge you overcame?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="295" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="296"></field>	What types of roles are available with my skill set?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="297" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="298"></field>	What skills should I improve to achieve this role?</p>
+<p style="Heading 2" xid="299"><bookmark type="start" name="_yk43f8axggjo" xid="300"/><bookmark xml:id="" type="end" name="_yk43f8axggjo" xid="301"/>Technical</p>
 <p style="Standard" xid="302">Technical mentorships are the most popular mentorship type and there are a few ways you can approach them. My favorite type of technical mentor is project-based.</p>
-<p style="Standard" xid="303"><c></c></p>
+<p style="Standard" xid="303"><c></c><c></c></p>
 <p style="Standard" xid="304">We all learn programming best by writing code, thus it’s a good idea to create a project you and your mentor can work through. Before each meeting, set a list of features you want to implement, and then spend the mentor meeting reviewing your code.</p>
-<p style="Standard" xid="305"><c></c></p>
+<p style="Standard" xid="305"><c></c><c></c></p>
 <p style="Standard" xid="306">You may also choose a technical mentorship structured more as a question and answer. It’s important to come to the meeting with questions already written out so you can maximize your mentorship meetings.</p>
-<p style="Standard" xid="307"><c></c></p>
-<p style="Standard" xid="308"><c></c></p>
-<p style="Standard" xid="309"><c></c></p>
-<p style="Standard" xid="310"><c></c></p>
-<p style="Standard" xid="311"><c></c></p>
-<p style="Standard" xid="312"><c></c></p>
-<p style="Heading 1" xid="313"><bookmark type="start" name="_v4u78d3jyivk" xid="314"/><bookmark type="end" name="_v4u78d3jyivk" xid="315"/></p>
-<p style="Standard" xid="316"><c></c></p>
-<p style="Standard" xid="317"><c></c></p>
-<p style="Heading 1" xid="318"><bookmark type="start" name="_y8kdre6jg8hl" xid="319"/><bookmark type="end" name="_y8kdre6jg8hl" xid="320"/>Mentor Guidelines</p>
+<p style="Standard" xid="307"><c></c><c></c></p>
+<p style="Standard" xid="308"><c></c><c></c></p>
+<p style="Standard" xid="309"><c></c><c></c></p>
+<p style="Standard" xid="310"><c></c><c></c></p>
+<p style="Standard" xid="311"><c></c><c></c></p>
+<p style="Standard" xid="312"><c></c><c></c></p>
+<p style="Heading 1" xid="313"><bookmark type="start" name="_v4u78d3jyivk" xid="314"/><bookmark xml:id="" type="end" name="_v4u78d3jyivk" xid="315"/></p>
+<p style="Standard" xid="316"><c></c><c></c></p>
+<p style="Standard" xid="317"><c></c><c></c></p>
+<p style="Heading 1" xid="318"><bookmark type="start" name="_y8kdre6jg8hl" xid="319"/><bookmark xml:id="" type="end" name="_y8kdre6jg8hl" xid="320"/>Mentor Guidelines</p>
 <p style="Standard" xid="321">Being a great mentor doesn’t have to be hard, but it can be a bit confusing to get started. Below are some of the ways you can go from a good mentor to a great mentor.</p>
-<p style="Standard" xid="322"><c></c></p>
-<p style="Standard" xid="323"><c props="font-weight:bold">Be Patient</c></p>
+<p style="Standard" xid="322"><c></c><c></c></p>
+<p style="Standard" xid="323"><c props="font-weight:bold">Be Patient</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="324">Mentees may not always be able to articulate what kind of help they need and it will require patience as they try to describe what they’re struggling with. You can help coax them along, but be patient; they’ll get there.</p>
-<p style="Standard" xid="325"><c></c></p>
-<p style="Standard" xid="326"><c props="font-weight:bold">Be A Good Communicator</c></p>
+<p style="Standard" xid="325"><c></c><c></c></p>
+<p style="Standard" xid="326"><c props="font-weight:bold">Be A Good Communicator</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="327">Your mentee is likely to come from another nation so there may be cultural, language, and industry barriers to overcome. It will require you to be able to communicate well despite these barriers, and to really listen to what your mentee is trying to say.</p>
-<p style="Standard" xid="328"><c></c></p>
-<p style="Standard" xid="329"><c props="font-weight:bold">Be A Guide</c></p>
+<p style="Standard" xid="328"><c></c><c></c></p>
+<p style="Standard" xid="329"><c props="font-weight:bold">Be A Guide</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="330" props="text-indent:0in; margin-left:0in; margin-right:0in">It can be tricky when mentees lack direction in their learning goals, and the temptation may be to design a learning path for them. However, goals that are not set and owned by the individual themselves are less likely to be followed through on. So, try to get that balance between making suggestions for your mentee and drawing out of them what they feel they need to focus on.</p>
-<p style="Standard" xid="331" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="332"><c props="font-weight:bold">Be Willing To Share</c></p>
+<p style="Standard" xid="331" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="332"><c props="font-weight:bold">Be Willing To Share</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="333" props="text-indent:0in; margin-left:0in; margin-right:0in">Your time, your knowledge, your experiences, and your resources will be invaluable to your mentee. Mentees appreciate hearing your story, knowing what worked for you, what didn’t work for you; it adds to the richness of a mentorship to gain insight about how the day-to-day aspects of the job and industry. This can demystify the unknown for the mentee and help them to build up their confidence.</p>
-<p style="Standard" xid="334" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="335"><c props="font-weight:bold">Be Trustworthy</c></p>
+<p style="Standard" xid="334" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="335"><c props="font-weight:bold">Be Trustworthy</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="336" props="text-indent:0in; margin-left:0in; margin-right:0in">Some mentees may be completely new to mentorship and thus it’s extremely important to build up a level of trust.. Making suggestions about which learning path to follow, or communicating via Google chat, or screen-sharing might be daunting and may make the mentee feel exposed or vulnerable. </p>
-<p style="Standard" xid="337" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
+<p style="Standard" xid="337" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
 <p style="Standard" xid="338" props="text-indent:0in; margin-left:0in; margin-right:0in">It’s always worth asking the question, “are you comfortable with...or if we…” These kinds of questions help put mentees at ease and re-assure them that you are sensitive to the possibility that they may feel a little skeptical about receiving guidance.</p>
-<p style="Standard" xid="339" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="340" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Heading 2" xid="341"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark type="end" name="_d35ry353qip" xid="343"/>How To Respond To Mentees</p>
+<p style="Standard" xid="339" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="340" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Heading 2" xid="341"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark xml:id="" type="end" name="_d35ry353qip" xid="343"/>How To Respond To Mentees</p>
 <p style="Standard" xid="344">So your first mentee has reached out! You’re extremely excited, but… now what? Below are the steps you should take once you’ve received your first mentee request.</p>
-<p style="Standard" xid="345"><c></c></p>
-<p style="Standard" xid="346"><c props="font-weight:bold">Determine If This Mentorship Is Right</c></p>
+<p style="Standard" xid="345"><c></c><c></c></p>
+<p style="Standard" xid="346"><c props="font-weight:bold">Determine If This Mentorship Is Right</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="347">The first step is to determine whether to accept or reject this mentorship. Perhaps you already have five mentees and just cannot take on another right now. Or perhaps the mentee wants to improve a skill that you’re not very comfortable providing mentorship in. If you aren’t able to accept a mentee for whatever reason, you must be respectful with your decline.</p>
-<p style="Standard" xid="348"><c></c></p>
+<p style="Standard" xid="348"><c></c><c></c></p>
 <p style="Standard" xid="349">For many mentees, reaching out to a potential mentor is a nerve-wracking experience. Here is one example of a message that would be appropriate to decline a mentee:</p>
-<p style="Standard" xid="350"><c></c></p>
-<p style="Standard" xid="351"><c props="font-style:italic">“Hi &lt;name&gt;. Thank you so much for contacting me. I would love to mentor you but am unable to at this time. If my situation changes I will let you know. Regards &lt;my name&gt;.”</c></p>
-<p style="Standard" xid="352" props="font-style:italic"><c></c></p>
+<p style="Standard" xid="350"><c></c><c></c></p>
+<p style="Standard" xid="351"><c props="font-style:italic">“Hi &lt;name&gt;. Thank you so much for contacting me. I would love to mentor you but am unable to at this time. If my situation changes I will let you know. Regards &lt;my name&gt;.”</c><c props="font-style:italic"></c></p>
+<p style="Standard" xid="352" props="font-style:italic"><c></c><c></c></p>
 <p style="Standard" xid="353">If you are able to accept the mentorship, congratulations! You can move on to the next steps.</p>
-<p style="Standard" xid="354" props="font-style:italic"><c></c></p>
-<p style="Standard" xid="355"><c props="font-weight:bold">Determine Your Availability</c></p>
+<p style="Standard" xid="354" props="font-style:italic"><c></c><c></c></p>
+<p style="Standard" xid="355"><c props="font-weight:bold">Determine Your Availability</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="356">Determine how much time you have available and clarify that up front. How much time can you devote to this mentee? Based upon your availability and their needs, determine how often you should meet.</p>
-<p style="Standard" xid="357"><c></c></p>
-<p style="Standard" xid="358"><c props="font-weight:bold">Set Goals</c></p>
+<p style="Standard" xid="357"><c></c><c></c></p>
+<p style="Standard" xid="358"><c props="font-weight:bold">Set Goals</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="359">Ask clarifying questions so that you understand exactly what the mentee is seeking advice about. What goals do they want to achieve from this mentorship?</p>
-<p style="Standard" xid="360"><c></c></p>
+<p style="Standard" xid="360"><c></c><c></c></p>
 <p style="Standard" xid="361">When making suggestions about what they could/should be learning, keep in mind that a mentee can become overwhelmed when you are too many steps ahead of them, or when they haven’t yet covered the basics of the tasks you are suggesting they try. </p>
-<p style="Standard" xid="362"><c></c></p>
+<p style="Standard" xid="362"><c></c><c></c></p>
 <p style="Standard" xid="363">As far as possible try to clarify with them where they’re at in their coding journey, to reduce the chances of misunderstanding and frustration before making suggestions of how they should proceed in their learning.</p>
-<p style="Standard" xid="364"><c></c></p>
-<p style="Standard" xid="365"><c></c></p>
-<p style="Standard" xid="366"><c></c></p>
-<p style="Standard" xid="367"><c></c></p>
-<p style="Standard" xid="368"><c></c></p>
-<p style="Standard" xid="369"><c></c></p>
-<p style="Standard" xid="370"><c></c></p>
-<p style="Heading 1" xid="371"><bookmark type="start" name="_yfsdwtxm2krs" xid="372"/><bookmark type="end" name="_yfsdwtxm2krs" xid="373"/>Mentee Guidelines</p>
+<p style="Standard" xid="364"><c></c><c></c></p>
+<p style="Standard" xid="365"><c></c><c></c></p>
+<p style="Standard" xid="366"><c></c><c></c></p>
+<p style="Standard" xid="367"><c></c><c></c></p>
+<p style="Standard" xid="368"><c></c><c></c></p>
+<p style="Standard" xid="369"><c></c><c></c></p>
+<p style="Standard" xid="370"><c></c><c></c></p>
+<p style="Heading 1" xid="371"><bookmark type="start" name="_yfsdwtxm2krs" xid="372"/><bookmark xml:id="" type="end" name="_yfsdwtxm2krs" xid="373"/>Mentee Guidelines</p>
 <p style="Standard" xid="374">Congratulations on taking the first step to being a mentee! Here are some guidelines for how to be a great mentee and get the most out of our mentorship.</p>
-<p style="Standard" xid="375"><c></c></p>
-<p style="Standard" xid="376"><c props="font-weight:bold">Be Respectful</c></p>
+<p style="Standard" xid="375"><c></c><c></c></p>
+<p style="Standard" xid="376"><c props="font-weight:bold">Be Respectful</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="377" props="text-indent:0in; margin-left:0in; margin-right:0in">Be respectful of your mentor’s time. Show up when you’ve agreed to meet. A mentor is likely a very busy individual and they are giving up their time, likely during working hours, or in their free time, to meet with you. Plus, you want to get the most out of your meetings.</p>
-<p style="Standard" xid="378" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="379" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Show Gratitude</c></p>
+<p style="Standard" xid="378" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="379" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Show Gratitude</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="380" props="text-indent:0in; margin-left:0in; margin-right:0in">The mentors will help you for free so they are using their own time and resources and asking for nothing in return. Don’t take it for granted and show your appreciation by thanking them. Give them specific feedback about how they’ve helped you; it not only encourages them, but it also helps them become better mentors. </p>
-<p style="Standard" xid="381" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="382" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Be Open To Learning</c></p>
+<p style="Standard" xid="381" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="382" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Be Open To Learning</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="383" props="text-indent:0in; margin-left:0in; margin-right:0in">Be open to the advice that your mentor gives you. Receiving direction from someone with more experience than you goes a long way in showing a mentor that you are willing to learn. </p>
-<p style="Standard" xid="384" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c></p>
-<p style="Standard" xid="385" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Respect Boundaries</c></p>
+<p style="Standard" xid="384" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="385" props="text-indent:0in; margin-left:0in; margin-right:0in"><c props="font-weight:bold">Respect Boundaries</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="386" props="text-indent:0in; margin-left:0in; margin-right:0in">Be mindful to not be too demanding of your mentor’s time. Each mentorship will be unique in frequency of communication. After the first few interactions you’ll begin to get a feel for what works for you and your mentor, but, if in doubt, you can be direct about the best times/days to communicate. </p>
-<p style="Standard" xid="387"><c></c></p>
-<p style="Heading 2" xid="388"><bookmark type="start" name="_kddkw5limjwf" xid="389"/><bookmark type="end" name="_kddkw5limjwf" xid="390"/>How To Reach Out To A Mentor</p>
+<p style="Standard" xid="387"><c></c><c></c></p>
+<p style="Heading 2" xid="388"><bookmark type="start" name="_kddkw5limjwf" xid="389"/><bookmark xml:id="" type="end" name="_kddkw5limjwf" xid="390"/>How To Reach Out To A Mentor</p>
 <p style="Standard" xid="391">First, determine which type of mentorship you’re looking for or which skill you’re looking to improve. Next, determine what types of things are important to you in a mentorship. Perhaps you’re looking for someone who lives in the same geographic location. Once you have these requirements figured out, you can begin your search for the perfect mentor.</p>
-<p style="Standard" xid="392"><c></c></p>
+<p style="Standard" xid="392"><c></c><c></c></p>
 <p style="Standard" xid="393">Once you’ve found the mentor you’d like to contact, it’s time to reach out. Here is a simple message you might want to send to a potential mentor:</p>
-<p style="Standard" xid="394"><c></c></p>
-<p style="Standard" xid="395"><c props="font-style:italic">“Hi &lt;name&gt;. I am looking to improve my skills in &lt;skill&gt; and found your profile on Coding Coach. I would love if we could establish a mentorship and work towards my goal. I am looking forward to hearing back from you.”</c></p>
-<p style="Standard" xid="396" props="font-style:italic"><c></c></p>
-<p style="Heading 2" xid="397"><bookmark type="start" name="_mg92pvkftt30" xid="398"/><bookmark type="end" name="_mg92pvkftt30" xid="399"/>Searching For A Mentor</p>
-<p style="Standard" xid="400">Head over to <a xlink:href="https://mentors.codingcoach.io/" xid="401"><c props="text-decoration:underline; color:#1155cc">Coding Coach</c></a> and look through the list of mentors. You can search, using the filters, for specific languages, technologies, or country. You can also favourite mentors that spark an interest.</p>
-<p style="Standard" xid="403"><c></c></p>
-<p style="Standard" xid="404">Once you’ve found a mentor you’re interested in (and after you registered of course), feel free to contact them using the provided channels (email, Slack, Twitter, etc.) <c props="font-weight:bold">Send them a short intro about who you are, where you’re from. Describe what your needs are, for example your goals in web development, and how a mentor could help you achieve those goals. A few sentences about each should do. Be as clear as you can</c>. </p>
-<p style="Standard" xid="405"><c></c></p>
-<p style="Standard" xid="406">Sometimes, when you don’t know what you don’t know, it’s really difficult to articulate how you wish to grow.  A course that has provided invaluable help with creating a learning path and set learning goals is Zubin Pratap’s <a xlink:href="https://www.udemy.com/how-not-to-quit-coding/" xid="407"><c props="text-decoration:underline; color:#1155cc">Before you learn programming: what will help you succeed</c></a> at Udemy.</p>
-<p style="Standard" xid="409"><c></c></p>
+<p style="Standard" xid="394"><c></c><c></c></p>
+<p style="Standard" xid="395"><c props="font-style:italic">“Hi &lt;name&gt;. I am looking to improve my skills in &lt;skill&gt; and found your profile on Coding Coach. I would love if we could establish a mentorship and work towards my goal. I am looking forward to hearing back from you.”</c><c props="font-style:italic"></c></p>
+<p style="Standard" xid="396" props="font-style:italic"><c></c><c></c></p>
+<p style="Heading 2" xid="397"><bookmark type="start" name="_mg92pvkftt30" xid="398"/><bookmark xml:id="" type="end" name="_mg92pvkftt30" xid="399"/>Searching For A Mentor</p>
+<p style="Standard" xid="400">Head over to <a xlink:href="https://mentors.codingcoach.io/" xid="401"><c props="text-decoration:underline; color:#1155cc">Coding Coach</c><c props="text-decoration:underline; color:#1155cc"></c></a> and look through the list of mentors. You can search, using the filters, for specific languages, technologies, or country. You can also favourite mentors that spark an interest.</p>
+<p style="Standard" xid="403"><c></c><c></c></p>
+<p style="Standard" xid="404">Once you’ve found a mentor you’re interested in (and after you registered of course), feel free to contact them using the provided channels (email, Slack, Twitter, etc.) <c props="font-weight:bold">Send them a short intro about who you are, where you’re from. Describe what your needs are, for example your goals in web development, and how a mentor could help you achieve those goals. A few sentences about each should do. Be as clear as you can</c><c props="font-weight:bold"></c>. </p>
+<p style="Standard" xid="405"><c></c><c></c></p>
+<p style="Standard" xid="406">Sometimes, when you don’t know what you don’t know, it’s really difficult to articulate how you wish to grow.  A course that has provided invaluable help with creating a learning path and set learning goals is Zubin Pratap’s <a xlink:href="https://www.udemy.com/how-not-to-quit-coding/" xid="407"><c props="text-decoration:underline; color:#1155cc">Before you learn programming: what will help you succeed</c><c props="text-decoration:underline; color:#1155cc"></c></a> at Udemy.</p>
+<p style="Standard" xid="409"><c></c><c></c></p>
 <p style="Standard" xid="410">Once you’ve clarified where you’re at, and how you’d like to grow, the mentor may make a few suggestions which might include things for you to focus on, read, study, work on.  Together the two of you can decide what platform would be best to communicate on: Slack and email work well for communicating; you could also use a video conferencing service like Skype or GoToMeeting if you want to talk and share your screens. </p>
-<p style="Standard" xid="411"><c></c></p>
-<p style="Heading 2" xid="412"><bookmark type="start" name="_88rmkpr531fc" xid="413"/><bookmark type="end" name="_88rmkpr531fc" xid="414"/>Becoming A Mentor</p>
-<p style="Standard" xid="415">If you'd like to become a mentor, you can create an account at <a xlink:href="https://mentors.codingcoach.io" xid="416"><c props="text-decoration:underline; color:#1155cc">https://mentors.codingcoach.io</c></a>. Once you've created your account, you can click "become a mentor" and fill out the form. One of the community admins will review your application and will approve you soon. Be as detailed as you can; supply as many channels as you can (up to 3) and add a good avatar photo of you so the mentees will feel comfortable contacting you. You don’t need to be an expert to become a mentor; everyone has a unique view to offer.</p>
-<p style="Standard" xid="418"><c></c></p>
-<p style="Standard" xid="419"><c></c></p>
-<p style="Standard" xid="420"><c></c></p>
-<p style="Standard" xid="421"><c></c></p>
-<p style="Standard" xid="422"><c></c></p>
-<p style="Standard" xid="423"><c></c></p>
-<p style="Standard" xid="424"><c></c></p>
-<p style="Heading 1" xid="425"><bookmark type="start" name="_q191e7cporzb" xid="426"/><bookmark type="end" name="_q191e7cporzb" xid="427"/>Mentor FAQ</p>
-<p style="Standard" xid="428"><c></c></p>
-<p style="Standard" xid="429"><c props="font-weight:bold">How much time a week should I be expected to be available for this? </c></p>
+<p style="Standard" xid="411"><c></c><c></c></p>
+<p style="Heading 2" xid="412"><bookmark type="start" name="_88rmkpr531fc" xid="413"/><bookmark xml:id="" type="end" name="_88rmkpr531fc" xid="414"/>Becoming A Mentor</p>
+<p style="Standard" xid="415">If you'd like to become a mentor, you can create an account at <a xlink:href="https://mentors.codingcoach.io" xid="416"><c props="text-decoration:underline; color:#1155cc">https://mentors.codingcoach.io</c><c props="text-decoration:underline; color:#1155cc"></c></a>. Once you've created your account, you can click "become a mentor" and fill out the form. One of the community admins will review your application and will approve you soon. Be as detailed as you can; supply as many channels as you can (up to 3) and add a good avatar photo of you so the mentees will feel comfortable contacting you. You don’t need to be an expert to become a mentor; everyone has a unique view to offer.</p>
+<p style="Standard" xid="418"><c></c><c></c></p>
+<p style="Standard" xid="419"><c></c><c></c></p>
+<p style="Standard" xid="420"><c></c><c></c></p>
+<p style="Standard" xid="421"><c></c><c></c></p>
+<p style="Standard" xid="422"><c></c><c></c></p>
+<p style="Standard" xid="423"><c></c><c></c></p>
+<p style="Standard" xid="424"><c></c><c></c></p>
+<p style="Heading 1" xid="425"><bookmark type="start" name="_q191e7cporzb" xid="426"/><bookmark xml:id="" type="end" name="_q191e7cporzb" xid="427"/>Mentor FAQ</p>
+<p style="Standard" xid="428"><c></c><c></c></p>
+<p style="Standard" xid="429"><c props="font-weight:bold">How much time a week should I be expected to be available for this? </c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="430">As much as you're comfortable with, ideally as much as the protege needs but these comfort boundaries will need to be determined with your protege when you are introducing yourself to each other. Some mentorships meet weekly, some meet monthly. Others meet as-needed. It’s important to evaluate the mentorship and come to an agreement that suits your needs.</p>
-<p style="Standard" xid="431"><c></c></p>
-<p style="Standard" xid="432"><c props="font-weight:bold">What sort of things will be expected of me?</c></p>
-<p style="Standard" xid="433">You will simply be a touch point for the protege. They might need help with soft skills, technical skills, career advice or they might just like to talk to someone who understands all they acronyms that they know! Don't worry, you're only expected to share your experience you won't be responsible for making decisions on behalf of your protege.<c props="font-weight:bold"> </c></p>
-<p style="Standard" xid="434" props="font-weight:bold"><c></c></p>
-<p style="Standard" xid="435"><c props="font-weight:bold">What do I do if I don't know the answer to something? </c></p>
+<p style="Standard" xid="431"><c></c><c></c></p>
+<p style="Standard" xid="432"><c props="font-weight:bold">What sort of things will be expected of me?</c><c props="font-weight:bold"></c></p>
+<p style="Standard" xid="433">You will simply be a touch point for the protege. They might need help with soft skills, technical skills, career advice or they might just like to talk to someone who understands all they acronyms that they know! Don't worry, you're only expected to share your experience you won't be responsible for making decisions on behalf of your protege.<c props="font-weight:bold"> </c><c props="font-weight:bold"></c></p>
+<p style="Standard" xid="434" props="font-weight:bold"><c></c><c></c></p>
+<p style="Standard" xid="435"><c props="font-weight:bold">What do I do if I don't know the answer to something? </c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="436">Hey, you know a lot! Trust us, whatever you have to share is valuable and if you don't immediately know the answer working through the problem with your protege can be a great way for both you to learn.</p>
-<p style="Standard" xid="437"><c></c></p>
-<p style="Standard" xid="438"><c props="font-weight:bold">Can I charge money for my mentorship?</c></p>
+<p style="Standard" xid="437"><c></c><c></c></p>
+<p style="Standard" xid="438"><c props="font-weight:bold">Can I charge money for my mentorship?</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="439">Well, as we said, CodingCoach is a free platform which was developed by the help of the community. All of those good people are volunteers and they are investing their time for the good of the community. So, mentorship should be free as well. There are some paid platforms for paid mentorship and we completely understand anyone who wants to get paid for their great service, but it's not the goal of our community. </p>
-<p style="Standard" xid="440"><c></c></p>
-<p style="Standard" xid="441"><c></c></p>
-<p style="Standard" xid="442"><c></c></p>
-<p style="Standard" xid="443"><c></c></p>
-<p style="Standard" xid="444"><c></c></p>
-<p style="Standard" xid="445"><c></c></p>
-<p style="Standard" xid="446"><c></c></p>
-<p style="Standard" xid="447"><c></c></p>
-<p style="Standard" xid="448"><c></c></p>
-<p style="Standard" xid="449"><c></c></p>
-<p style="Standard" xid="450"><c></c></p>
-<p style="Standard" xid="451"><c></c></p>
-<p style="Standard" xid="452"><c></c></p>
-<p style="Standard" xid="453"><c></c></p>
-<p style="Standard" xid="454"><c></c></p>
-<p style="Standard" xid="455"><c></c></p>
-<p style="Standard" xid="456"><c></c></p>
-<p style="Standard" xid="457"><c></c></p>
-<p style="Standard" xid="458"><c></c></p>
-<p style="Heading 1" xid="459"><bookmark type="start" name="_x8amyc5dfy0e" xid="460"/><bookmark type="end" name="_x8amyc5dfy0e" xid="461"/>Mentee FAQ</p>
-<p style="Standard" xid="462"><c></c></p>
-<p style="Standard" xid="463"><c props="font-weight:bold">What can my mentor help me with?</c></p>
+<p style="Standard" xid="440"><c></c><c></c></p>
+<p style="Standard" xid="441"><c></c><c></c></p>
+<p style="Standard" xid="442"><c></c><c></c></p>
+<p style="Standard" xid="443"><c></c><c></c></p>
+<p style="Standard" xid="444"><c></c><c></c></p>
+<p style="Standard" xid="445"><c></c><c></c></p>
+<p style="Standard" xid="446"><c></c><c></c></p>
+<p style="Standard" xid="447"><c></c><c></c></p>
+<p style="Standard" xid="448"><c></c><c></c></p>
+<p style="Standard" xid="449"><c></c><c></c></p>
+<p style="Standard" xid="450"><c></c><c></c></p>
+<p style="Standard" xid="451"><c></c><c></c></p>
+<p style="Standard" xid="452"><c></c><c></c></p>
+<p style="Standard" xid="453"><c></c><c></c></p>
+<p style="Standard" xid="454"><c></c><c></c></p>
+<p style="Standard" xid="455"><c></c><c></c></p>
+<p style="Standard" xid="456"><c></c><c></c></p>
+<p style="Standard" xid="457"><c></c><c></c></p>
+<p style="Standard" xid="458"><c></c><c></c></p>
+<p style="Heading 1" xid="459"><bookmark type="start" name="_x8amyc5dfy0e" xid="460"/><bookmark xml:id="" type="end" name="_x8amyc5dfy0e" xid="461"/>Mentee FAQ</p>
+<p style="Standard" xid="462"><c></c><c></c></p>
+<p style="Standard" xid="463"><c props="font-weight:bold">What can my mentor help me with?</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="464">Your mentor can</p>
 <p level="1" listid="1040" parentid="0" style="" xid="465" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="466"></field>	Provide technical advice on problems that you're having that you're stuck on</p>
 <p level="1" listid="1040" parentid="0" style="" xid="467" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="468"></field>	Share their experience so to give you something to compare against your own experience to help guide you in your career or through a technical problem you're dealing with</p>
 <p level="1" listid="1040" parentid="0" style="" xid="469" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="470"></field>	Be available when they have the time to talk to you about issues you're working through in relation to coding or career.</p>
 <p level="1" listid="1040" parentid="0" style="" xid="471" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0.1665in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="472"></field>	Help you work through code related problem that you're hopelessly stuck on. They most often won't give you the answer but will rather get you over the immediate hurdle so that you can continue solving the problem yourself.</p>
-<p style="Standard" xid="473"><c></c></p>
-<p style="Standard" xid="474"><c props="font-weight:bold">Is there anything my mentor can’t help me with?</c></p>
+<p style="Standard" xid="473"><c></c><c></c></p>
+<p style="Standard" xid="474"><c props="font-weight:bold">Is there anything my mentor can’t help me with?</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="475">Your mentor cannot be expected</p>
 <p level="1" listid="1060" parentid="0" style="" xid="476" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="477"></field>	To do your assignments for university</p>
 <p level="1" listid="1060" parentid="0" style="" xid="478" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="479"></field>	To be a replacement for your textbooks, online learning or google</p>
 <p level="1" listid="1060" parentid="0" style="" xid="480" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="481"></field>	To be someone who can be relied on to be available for any tech related thing at any time of day or night</p>
 <p level="1" listid="1060" parentid="0" style="" xid="482" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0.1665in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="483"></field>	To be a decision maker in your career or life</p>
-<p style="Standard" xid="484"><c></c></p>
-<p style="Standard" xid="485"><c props="font-weight:bold">What is expected of me as a mentee?</c></p>
+<p style="Standard" xid="484"><c></c><c></c></p>
+<p style="Standard" xid="485"><c props="font-weight:bold">What is expected of me as a mentee?</c><c props="font-weight:bold"></c></p>
 <p level="1" listid="1010" parentid="0" style="" xid="486" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="487"></field>	To try your earnest best to solve problems you have in the best way you can before asking questions</p>
 <p level="1" listid="1010" parentid="0" style="" xid="488" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="489"></field>	When you do ask questions, ask good questions. This means presenting what you've already tried, providing detail about the solution, sharing code and any other insights you have into the problem. Remember that the mentor is giving up their time to help you so make sure you're spending both of your time as efficiently as possible.</p>
 <p level="1" listid="1010" parentid="0" style="" xid="490" props="margin-top:0in; margin-left:1.270000cm; text-indent:-0.635000cm; margin-bottom:0.1665in; list-style:Bullet List; line-height:1.000000; margin-right:0in; field-font:NULL"><field type="list_label" xid="491"></field>	When you ask questions, listen to the answers, and try your best to follow the advice given even if you think it won't lead to the answer you want. Of course you are free to question the solution given but understand that you've asked a question because you're stuck and following the advice given may lead to a new understanding you didn't have before.</p>
-<p style="Heading 1" xid="492"><bookmark type="start" name="_z0wfm1s77qo2" xid="493"/><bookmark type="end" name="_z0wfm1s77qo2" xid="494"/>Conclusion</p>
-<p style="Standard" xid="495">We hope this mentorship guide has given you the skills and confidence you need to build a long-lasting mentorship. If you have any questions or concerns, you’re welcome to reach out at <a xlink:href="mailto:admin@codingcoach.io" xid="496"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c></a></p>
+<p style="Heading 1" xid="492"><bookmark type="start" name="_z0wfm1s77qo2" xid="493"/><bookmark xml:id="" type="end" name="_z0wfm1s77qo2" xid="494"/>Conclusion</p>
+<p style="Standard" xid="495">We hope this mentorship guide has given you the skills and confidence you need to build a long-lasting mentorship. If you have any questions or concerns, you’re welcome to reach out at <a xlink:href="mailto:admin@codingcoach.io" xid="496"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c><c props="text-decoration:underline; color:#1155cc"></c></a></p>
 <p style="Standard" xid="498"></p>
 </section>
 <data>
