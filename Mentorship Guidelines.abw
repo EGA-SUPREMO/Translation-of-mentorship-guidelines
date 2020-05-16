@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="536" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="566" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Thu May 14 14:04:32 2020
+<m key="abiword.date_last_changed">Sat May 16 11:13:35 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,26 +19,27 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="7" edit-time="920" last-saved="1589479472" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="16" edit-time="3725" last-saved="1589642015" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
+<version id="16" started="1589639325" uid="cfc32f46-9787-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
 </history>
 <styles>
-<s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
+<s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
 <s type="P" name="normal" followedby="normal" props="text-align:left; dom-dir:ltr; orphans:2; widows:2"/>
 <s type="P" name="Standard" followedby="Standard" props="line-height:1.150000"/>
-<s type="P" name="Heading 1" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:20pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:bold; font-family:Liberation Sans; margin-top:0.278in"/>
-<s type="P" name="Heading 2" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:16pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:normal; font-family:Liberation Sans; margin-top:0.25in"/>
+<s type="P" name="Heading 1" basedon="normal" followedby="Standard" props="margin-top:0.278in; font-size:20pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:bold; keep-with-next:yes; font-family:Liberation Sans"/>
+<s type="P" name="Heading 2" basedon="normal" followedby="Standard" props="margin-top:0.25in; font-size:16pt; margin-bottom:0.0835in; line-height:1.000000; font-weight:normal; keep-with-next:yes; font-family:Liberation Sans"/>
 <s type="P" name="Caption" basedon="Standard" followedby="Caption" props="margin-top:0.0835in; font-size:12pt; margin-bottom:0.0835in; font-style:italic"/>
 <s type="P" name="Heading" basedon="Standard" followedby="Text body" props="margin-top:0.1665in; keep-with-next:yes; margin-bottom:0.0835in; font-family:Liberation Sans; font-size:14pt"/>
-<s type="P" name="Heading 3" basedon="normal" followedby="Standard" props="margin-top:0.222in; font-size:14pt; margin-bottom:0.0555in; line-height:1.000000; color:#434343; font-weight:normal; font-family:Liberation Sans; keep-with-next:yes"/>
-<s type="P" name="Heading 4" basedon="normal" followedby="Standard" props="margin-top:0.1945in; font-size:12pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-weight:bold; font-family:Liberation Sans; keep-with-next:yes"/>
-<s type="P" name="Heading 5" basedon="normal" followedby="Standard" props="line-height:1.000000; margin-top:0.1665in; font-size:11pt; margin-bottom:0.0555in; color:#666666; keep-with-next:yes"/>
-<s type="P" name="Heading 6" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:11pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-style:italic; margin-top:0.1665in"/>
+<s type="P" name="Heading 3" basedon="normal" followedby="Standard" props="margin-top:0.222in; font-size:14pt; margin-bottom:0.0555in; line-height:1.000000; color:#434343; font-weight:normal; keep-with-next:yes; font-family:Liberation Sans"/>
+<s type="P" name="Heading 4" basedon="normal" followedby="Standard" props="margin-top:0.1945in; font-size:12pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-weight:bold; keep-with-next:yes; font-family:Liberation Sans"/>
+<s type="P" name="Heading 5" basedon="normal" followedby="Standard" props="keep-with-next:yes; color:#666666; margin-top:0.1665in; line-height:1.000000; margin-bottom:0.0555in; font-size:11pt"/>
+<s type="P" name="Heading 6" basedon="normal" followedby="Standard" props="margin-top:0.1665in; font-size:11pt; margin-bottom:0.0555in; line-height:1.000000; color:#666666; font-style:italic; keep-with-next:yes"/>
 <s type="C" name="Internet link_text" followedby="Internet link_text" props="lang:zxx-none; text-decoration:underline; color:#000080"/>
 <s type="C" name="ListLabel 64_text" followedby="ListLabel 64_text" props="text-decoration:underline; color:#1155cc"/>
-<s type="P" name="Normal" followedby="Current Settings" props="text-indent:0in; font-weight:normal; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; bgcolor:transparent; lang:en-none; dom-dir:ltr; margin-bottom:0pt; default-tab-interval:0.5in; text-decoration:none; font-variant:normal; color:000000; text-position:normal; font-size:11pt; margin-right:0pt; font-style:normal; widows:2; font-family:Arial"/>
-<s type="P" name="Subtitle" basedon="normal" followedby="Standard" props="keep-with-next:yes; font-size:15pt; margin-bottom:0.222in; line-height:1.000000; color:#666666; font-family:Arial; font-style:normal; margin-top:0in"/>
+<s type="P" name="Normal" followedby="Current Settings" props="text-decoration:none; text-indent:0in; margin-top:0pt; margin-left:0pt; font-stretch:normal; line-height:1.0; text-align:left; font-variant:normal; lang:en-none; dom-dir:ltr; margin-bottom:0pt; default-tab-interval:0.5in; font-weight:normal; bgcolor:transparent; color:000000; text-position:normal; font-size:11pt; margin-right:0pt; font-style:normal; widows:2; font-family:Arial"/>
+<s type="P" name="Subtitle" basedon="normal" followedby="Standard" props="font-family:Arial; font-size:15pt; margin-bottom:0.222in; line-height:1.000000; color:#666666; margin-top:0in; font-style:normal; keep-with-next:yes"/>
 <s type="P" name="Text body" basedon="Standard" followedby="Text body" props="margin-top:0in; line-height:1.150000; margin-bottom:0.0972in"/>
 </styles>
 <lists>
@@ -52,7 +53,7 @@
 </lists>
 <pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
 <section xid="5" props="page-margin-right:1in; page-width:8.5in; page-margin-left:1in; page-orientation:portrait; page-margin-bottom:1in; page-margin-top:1in; page-height:11in">
-<p style="Title" xid="6" props="text-align:center; dom-dir:ltr"><bookmark type="start" name="_4d2v6zngb7zo" xid="502"/><bookmark xml:id="" type="end" name="_4d2v6zngb7zo" xid="501"/><c>Pautas de Mentoría de Coding Coach</c></p>
+<p style="Title" xid="6" props="text-align:center; dom-dir:ltr"><bookmark type="start" name="_4d2v6zngb7zo" xid="502"/><bookmark xml:id="" type="end" name="_4d2v6zngb7zo" xid="501"/>Pautas de Mentoría de Coding Coach<c></c></p>
 <p style="Heading 1" xid="526" props="text-align:center"><bookmark type="start" name="_pakiknncxj1b" xid="10"/><bookmark xml:id="" type="end" name="_pakiknncxj1b" xid="11"/><image dataid="0" xid="12" props="height:2.3425in; width:2.3425in"/></p>
 <p style="Standard" xid="13"><c></c><c></c></p>
 <p style="Standard" xid="14"><c></c><c></c></p>
@@ -79,15 +80,15 @@
 <p style="Standard" xid="35"><c></c><c></c></p>
 <p style="Standard" xid="36"><c></c><c></c></p>
 <p style="Standard" xid="37"><c></c><c></c></p>
-<p style="Standard" xid="505"><c></c></p>
-<p style="Standard" xid="506"><c></c></p>
+<p style="Standard" xid="505"><c></c><c></c></p>
+<p style="Standard" xid="506"><c></c><c></c></p>
 <p style="Standard" xid="38"><c></c><c></c></p>
 <p style="Standard" xid="39"><c></c><c></c></p>
-<p style="Standard" xid="525"><c></c><c>¡Bienvenido a las Pautas de Mentoría de Coding Coach! Estamos felices de que estés aquí.</c></p>
-<p style="Standard" xid="515" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="518" props="text-align:left; dom-dir:ltr"><c>Dar el primer paso hacia una mentoría puede ser un poco desalentador. Nunca es fácil preguntarle a alguien si lo tomará bajo su protección y le dará orientación. ¡Así que estamos aquí para brindarle algunas pautas para comenzar!</c></p>
-<p style="Standard" xid="521" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="522" props="text-align:left; dom-dir:ltr"><c>Si tiene alguna pregunta, no dude en enviarnos un correo electrónico a </c><a xlink:href="mailto:admin@codingcoach.io" xid="524"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c><c props="text-decoration:underline; color:#1155cc"></c></a>.</p>
+<p style="Standard" xid="525"><c></c>¡Bienvenido a las Pautas de Mentoría de Coding Coach! Estamos felices de que estés aquí.</p>
+<p style="Standard" xid="515" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Standard" xid="518" props="text-align:left; dom-dir:ltr">Dar el primer paso hacia una mentoría puede ser un poco desalentador. Nunca es fácil preguntarle a alguien si lo tomará bajo su protección y le dará orientación. ¡Así que estamos aquí para brindarle algunas pautas para comenzar!<c></c></p>
+<p style="Standard" xid="521" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Standard" xid="522" props="text-align:left; dom-dir:ltr">Si tiene alguna pregunta, no dude en enviarnos un correo electrónico a <c></c><a xlink:href="mailto:admin@codingcoach.io" xid="524"><c props="text-decoration:underline; color:#1155cc">admin@codingcoach.io</c></a>.</p>
 <p style="Standard" xid="47"><c></c><c></c></p>
 <p style="Standard" xid="48"><c></c><c></c></p>
 <p style="Heading 1" xid="49"><bookmark type="start" name="_rsbilwyn6wvb" xid="50"/><bookmark xml:id="" type="end" name="_rsbilwyn6wvb" xid="51"/></p>
@@ -109,9 +110,9 @@
 <p style="Heading 1" xid="73"><bookmark type="start" name="_htr809ef9j0t" xid="74"/><bookmark xml:id="" type="end" name="_htr809ef9j0t" xid="75"/></p>
 <p style="Heading 1" xid="76"><bookmark type="start" name="_focq2s1svmf9" xid="77"/><bookmark xml:id="" type="end" name="_focq2s1svmf9" xid="78"/></p>
 <p style="Standard" xid="79"><c></c><c></c></p>
-<p style="Heading 1" xid="80" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_bmpgxrsrzv33" xid="81"/><bookmark xml:id="" type="end" name="_bmpgxrsrzv33" xid="82"/>Tabl<c>a</c> de Contenido</p>
+<p style="Heading 1" xid="80" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_bmpgxrsrzv33" xid="81"/><bookmark xml:id="" type="end" name="_bmpgxrsrzv33" xid="82"/>Tabla de Contenido<c></c></p>
 <p xid="83"><c></c><c></c></p>
-<toc xid="84" props="toc-has-heading:0; toc-heading-style:Normal; toc-dest-style1:Normal; toc-dest-style2:Normal; toc-dest-style3:Normal; toc-dest-style4:Normal">
+<toc xid="84" props="toc-has-heading:0; toc-dest-style4:Normal; toc-dest-style1:Normal; toc-dest-style2:Normal; toc-dest-style3:Normal; toc-heading-style:Normal">
 </toc><p style="Standard" xid="85"><c></c><c></c></p>
 <p style="Standard" xid="86"><c></c><c></c></p>
 <p style="Standard" xid="87"><c></c><c></c></p>
@@ -128,9 +129,11 @@
 <p style="Standard" xid="107" props="text-align:center"><image dataid="2" xid="108" props="height:2.2508in; width:3.2134in"/></p>
 <p style="Standard" xid="109"><c></c><c></c></p>
 <p style="Standard" xid="110"><c></c><c></c></p>
-<p style="Standard" xid="111"><c></c><c></c></p>
-<p style="Heading 2" xid="112"><bookmark type="start" name="_w81nns9vp694" xid="113"/><bookmark xml:id="" type="end" name="_w81nns9vp694" xid="114"/>Mentorship</p>
-<p style="Standard" xid="115">A mentorship is the relationship formed between two people, a mentor and a mentee, in which the mentor provides guidance or shares knowledge with the mentee in order to improve their skills or confidence.</p>
+<p style="Heading 2" xid="111"><c props="list-tag:1001"></c><c>Mentoría</c></p>
+<p style="Standard" xid="540" props="text-align:left; dom-dir:ltr"><c>Una mentoría es la relación integrada entre dos personas, un mentor y un </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c>, en la cual el mentor brinda orientación o comparte sus conocimientos con el </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c> para mejorar sus habilidades o confianza.</c></p>
+<p style="Standard" xid="549" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="550" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Heading 2" xid="551"></p>
 <p style="Standard" xid="116"><c></c><c></c></p>
 <p style="Standard" xid="117" props="text-align:center"><image dataid="3" xid="118" props="height:2.422in; width:3.6953in"/></p>
 <p style="Standard" xid="119"><c></c><c></c></p>
@@ -154,15 +157,15 @@
 <p style="Standard" xid="139" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
 <p style="Standard" xid="140" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
 <p style="Standard" xid="141" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
-<p style="Standard" xid="142" props="margin-top:0in; line-height:1.000000; margin-bottom:0in"><c></c><c></c></p>
-<p style="Heading 1" xid="143"><bookmark type="start" name="_lr01jy8hjp63" xid="144"/><bookmark xml:id="" type="end" name="_lr01jy8hjp63" xid="145"/>Why Mentorship?</p>
-<p style="Standard" xid="146">Mentorship is a powerful tool which can help new hires looking to gain a foothold in an industry. Additionally, mentorship can provide great benefits to more experienced professionals looking to enhance their skills in a particular area.</p>
-<p style="Standard" xid="147"><c></c><c></c></p>
-<p style="Standard" xid="148">When you learn from someone who has gone through similar struggles and come out the other side, you gain invaluable knowledge and experience.</p>
-<p style="Standard" xid="149"><c></c><c></c></p>
-<p style="Standard" xid="150">Perhaps you’ve been struggling with a challenging coding problem for weeks, or perhaps you’re debating a career switch and want to talk about the new role in-depth prior to committing. Mentorship can offer you all of these benefits and more.</p>
-<p style="Standard" xid="151"><c></c><c></c></p>
-<p style="Standard" xid="152">Mentorship also provides you with a physical connection in your industry. Having these connections can make you feel more confident in your abilities to conquer your job.</p>
+<p style="Heading 1" xid="142"><c props="list-tag:1227"></c><c>¿Por qué la mentoría?</c></p>
+<p style="Standard" xid="552" props="text-align:left; margin-top:0in; margin-bottom:0in; dom-dir:ltr"><c props="list-tag:1228"></c>La mentoría es una herramienta poderosa que puede ayudar a los nuevos empleados que buscan establecerse en una industria. Además, la mentoría puede proporcionar grandes beneficios a los profesionales más experimentados que buscan mejorar sus habilidades en un área en particular.</p>
+<p style="Standard" xid="553" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="556" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr">Cuando aprendes de alguien que ha pasado por dificultades similares y viene del otro lado, obtienes conocimiento y experiencia invaluables.</p>
+<p style="Standard" xid="557" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="560" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr">Tal vez has estado luchando con un problema de progrmación desafiante durante semanas, tal vez estás debatiendo un cambio de carrera y deseas hablar en profundidad sobre el nuevo rol antes de comprometerte. La mentoría puede ofrecerle todos estos beneficios y más.</p>
+<p style="Standard" xid="563" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="564" props="text-align:left; margin-top:0in; line-height:1.000000; margin-bottom:0in; dom-dir:ltr">La tutoría también te proporciona una conexión física en tu industria. Tener estas conexiones puede hacerte sentir más confiado en tus habilidades para conquistar tu trabajo.</p>
+<p style="Heading 1" xid="143"><bookmark type="start" name="_lr01jy8hjp63" xid="144"/><bookmark xml:id="" type="end" name="_lr01jy8hjp63" xid="145"/></p>
 <p style="Standard" xid="153"><c></c><c></c></p>
 <p style="Heading 1" xid="154"><bookmark type="start" name="_barw0v8wh8t7" xid="155"/><bookmark xml:id="" type="end" name="_barw0v8wh8t7" xid="156"/></p>
 <p style="Heading 1" xid="157"><bookmark type="start" name="_1fwp60yl7vui" xid="158"/><bookmark xml:id="" type="end" name="_1fwp60yl7vui" xid="159"/></p>
@@ -207,12 +210,12 @@
 <p style="Standard" xid="220"><c></c><c></c></p>
 <p style="Heading 2" xid="221"><bookmark type="start" name="_rk141wesbxcu" xid="222"/><bookmark xml:id="" type="end" name="_rk141wesbxcu" xid="223"/>Setting Mentorship Expectations</p>
 <p style="Standard" xid="224">Whichever mentorship style you choose, you should set realistic expectations from the start. Think about how much time you can invest each day or week for communication. Communicate your expectations of the relationship as clearly as possible. Some questions you may want to address are:</p>
-<p level="1" listid="1020" parentid="0" style="" xid="225" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="226"></field>	What do you hope to achieve from the mentorship? </p>
-<p level="1" listid="1020" parentid="0" style="" xid="227" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="228"></field>	How much time are you willing and able to commit?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="229" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="230"></field>	Should the mentorship meetings be once a week, twice a week, once a month, or ad-hoc?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="231" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="232"></field>	Is this mentorship open-ended or do you need just a few sessions?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="233" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="234"></field>	What will your primary method of communication be?</p>
-<p level="1" listid="1020" parentid="0" style="" xid="235" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="236"></field>	How do you want to track your progress?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="225" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="226"></field>	What do you hope to achieve from the mentorship? </p>
+<p level="1" listid="1020" parentid="0" style="" xid="227" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="228"></field>	How much time are you willing and able to commit?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="229" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="230"></field>	Should the mentorship meetings be once a week, twice a week, once a month, or ad-hoc?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="231" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="232"></field>	Is this mentorship open-ended or do you need just a few sessions?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="233" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="234"></field>	What will your primary method of communication be?</p>
+<p level="1" listid="1020" parentid="0" style="" xid="235" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="236"></field>	How do you want to track your progress?</p>
 <p style="Standard" xid="237"><c></c><c></c></p>
 <p style="Heading 2" xid="238"><bookmark type="start" name="_rhup49hoqpmd" xid="239"/><bookmark xml:id="" type="end" name="_rhup49hoqpmd" xid="240"/>Re-Evaluating Your Mentorship</p>
 <p style="Standard" xid="241">After a few mentorship sessions, it’s a good idea to re-evaluate your mentorship goals and assess your progress. A mentorship should only continue as long as both parties find the relationship to be valuable.</p>
@@ -226,15 +229,15 @@
 <p style="Standard" xid="251"><c></c><c></c></p>
 <p style="Heading 2" xid="252"><bookmark type="start" name="_2lbiau4t0uid" xid="253"/><bookmark xml:id="" type="end" name="_2lbiau4t0uid" xid="254"/>Assessing Your Mentorship Goals</p>
 <p style="Standard" xid="255">If you both decide that you want to continue with the mentorship, you should revisit the established goals. </p>
-<p level="1" listid="1030" parentid="0" style="" xid="256" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="257"></field>	Are these goals still relevant and achievable? </p>
-<p level="1" listid="1030" parentid="0" style="" xid="258" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="259"></field>	Should I set new goals?</p>
+<p level="1" listid="1030" parentid="0" style="" xid="256" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="257"></field>	Are these goals still relevant and achievable? </p>
+<p level="1" listid="1030" parentid="0" style="" xid="258" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="259"></field>	Should I set new goals?</p>
 <p style="Standard" xid="260"><c></c><c></c></p>
 <p style="Standard" xid="261">Goals shouldn’t be too big or too small. They should be achievable within one or two sessions. For example if your overarching goal is to get better at React, set smaller goals which can be met by the next meeting. Your goals might look something like this:</p>
-<p level="1" listid="1050" parentid="0" style="" xid="262" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="263"></field>	Create one React functional component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="264" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="265"></field>	Integrate the React functional component into an application</p>
-<p level="1" listid="1050" parentid="0" style="" xid="266" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="267"></field>	Create one React stateful component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="268" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="269"></field>	Add state to the React component</p>
-<p level="1" listid="1050" parentid="0" style="" xid="270" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="271"></field>	Update state on user input</p>
+<p level="1" listid="1050" parentid="0" style="" xid="262" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="263"></field>	Create one React functional component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="264" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="265"></field>	Integrate the React functional component into an application</p>
+<p level="1" listid="1050" parentid="0" style="" xid="266" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="267"></field>	Create one React stateful component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="268" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="269"></field>	Add state to the React component</p>
+<p level="1" listid="1050" parentid="0" style="" xid="270" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="271"></field>	Update state on user input</p>
 <p style="Standard" xid="272"><c></c><c></c></p>
 <p style="Standard" xid="273">Mentorships can lead to more than just improved skills and networking; they could also lead to a new job, a travel opportunity,or a collaboration on a project. We hope that the connections made on Coding Coach will be enjoyed to the fullest!  </p>
 <p style="Standard" xid="274"><c></c><c></c></p>
@@ -250,10 +253,10 @@
 <p style="Standard" xid="288">If you’re looking to gain insight on a particular career field or if you’re thinking about switching roles, a career mentorship might be a good fit for you. These are typically professionals who are in a role similar to yours or are in the role you see yourself being in one day.</p>
 <p style="Standard" xid="289"><c></c><c></c></p>
 <p style="Standard" xid="290">Here are some questions you may want to ask your career mentor:</p>
-<p level="1" listid="1070" parentid="0" style="" xid="291" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="292"></field>	What was you career path into your current role?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="293" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="294"></field>	What was the biggest challenge you overcame?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="295" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="296"></field>	What types of roles are available with my skill set?</p>
-<p level="1" listid="1070" parentid="0" style="" xid="297" props="list-style:Bullet List; text-indent:-0.635000cm; line-height:1.150000; field-font:NULL; margin-left:1.270000cm; margin-right:0in"><field type="list_label" xid="298"></field>	What skills should I improve to achieve this role?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="291" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="292"></field>	What was you career path into your current role?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="293" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="294"></field>	What was the biggest challenge you overcame?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="295" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="296"></field>	What types of roles are available with my skill set?</p>
+<p level="1" listid="1070" parentid="0" style="" xid="297" props="text-indent:-0.635000cm; list-style:Bullet List; field-font:NULL; line-height:1.150000; margin-right:0in; margin-left:1.270000cm"><field type="list_label" xid="298"></field>	What skills should I improve to achieve this role?</p>
 <p style="Heading 2" xid="299"><bookmark type="start" name="_yk43f8axggjo" xid="300"/><bookmark xml:id="" type="end" name="_yk43f8axggjo" xid="301"/>Technical</p>
 <p style="Standard" xid="302">Technical mentorships are the most popular mentorship type and there are a few ways you can approach them. My favorite type of technical mentor is project-based.</p>
 <p style="Standard" xid="303"><c></c><c></c></p>
