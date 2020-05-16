@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="582" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="611" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Sat May 16 11:39:59 2020
+<m key="abiword.date_last_changed">Sat May 16 13:11:15 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,10 +19,10 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="24" edit-time="5309" last-saved="1589643599" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="35" edit-time="10785" last-saved="1589649075" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
-<version id="24" started="1589639325" uid="805bec78-978b-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
+<version id="35" started="1589639325" uid="3fddab52-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -199,14 +199,14 @@
 <p style="Standard" xid="207"><c></c><c></c></p>
 <p style="Standard" xid="208"><c></c><c></c></p>
 <p style="Standard" xid="209"><c></c><c></c></p>
-<p style="Heading 1" xid="210"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark xml:id="" type="end" name="_1yinzctfb3pc" xid="212"/>Approaching A Mentorship</p>
-<p style="Standard" xid="213">A mentorship can take a variety of forms and lead to a variety of outcomes. It can be the kind of relationship that focuses on answering questions about a project that you’re stuck on, or about advice on learning a new language/technology/skill; or it can be about developing a learning plan for those who are self-taught. </p>
-<p style="Standard" xid="214"><c></c><c></c></p>
-<p style="Standard" xid="215">But it may also be the kind of relationship where advice is given/information shared about the industry, how to prepare for interviews, or a sharing of experiences about specific technologies or job roles. </p>
-<p style="Standard" xid="216"><c></c><c></c></p>
-<p style="Standard" xid="217">Be open to the possibility that you may connect with someone from the other side of the world, who may speak a different first language, or may be from another culture and/or country. </p>
-<p style="Standard" xid="218"><c></c><c></c></p>
-<p style="Standard" xid="219">This can pose a variety of challenges. If you’re based on opposite ends of the globe, you may choose to communicate in written form (email, Slack, or any other chat option) which allows ample time to respond without the pressure to arrange a specific meeting time.  Or perhaps you’re both living within the same time zone and decide to hold your mentorship meetings through a video conferencing tool. </p>
+<p style="Heading 1" xid="210" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark xml:id="" type="end" name="_1yinzctfb3pc" xid="212"/>Acercarse a una mentoría</p>
+<p style="Standard" xid="605" props="text-align:left; dom-dir:ltr">Una mentoría puede tomar una variedad de formas y conducir una variedad de resultados. Puede ser el tipo de relación que se enfoca en responder preguntas sobre un proyecto en el que estás estancado, o sobre consejos para aprender un nuevo lengu<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aje</c>/tecnología/habilidad; o puede ser p<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ara</c> desarrollar un plan de aprendizaje para aquellos que son autodidactas.</p>
+<p style="Standard" xid="606" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="607" props="text-align:left; dom-dir:ltr">Pero también puede ser el tipo de relación en la que se dan consejos / se comparte información sobre la industria, cómo prepararse para entrevistas o un intercambio de experiencias sobre tecnologías específicas o roles laborales.</p>
+<p style="Standard" xid="608" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="609" props="text-align:left; dom-dir:ltr">Sea abierto a la posibilidad de que pueda tener alguien del otro lado del mundo, que puede hablar un lengu<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aje</c> prim<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c>rio diferente, o puede ser de otra cultura y/o país.</p>
+<p style="Standard" xid="610" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="611" props="text-align:left; dom-dir:ltr">Esto puede plantear una variedad de desafíos. Si se encuentra en extremos opuestos del mundo, puede optar por comunicarse por escrito (correo electrónico, Slack o cualquier otra opción de chat) que permita un tiempo suficiente para responder sin la presión de organizar un horario específico de reunión. O tal vez ambos viven dentro de la misma zona horaria y deciden llev<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar a cabo</c> sus reuniones de mentoría a través de una herramienta de videoconferencias.</p>
 <p style="Standard" xid="220"><c></c><c></c></p>
 <p style="Heading 2" xid="221"><bookmark type="start" name="_rk141wesbxcu" xid="222"/><bookmark xml:id="" type="end" name="_rk141wesbxcu" xid="223"/>Setting Mentorship Expectations</p>
 <p style="Standard" xid="224">Whichever mentorship style you choose, you should set realistic expectations from the start. Think about how much time you can invest each day or week for communication. Communicate your expectations of the relationship as clearly as possible. Some questions you may want to address are:</p>

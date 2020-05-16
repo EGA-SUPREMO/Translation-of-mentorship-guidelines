@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="582" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="599" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Sat May 16 11:35:22 2020
+<m key="abiword.date_last_changed">Sat May 16 13:02:26 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,10 +19,10 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="20" edit-time="5116" last-saved="1589643322" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="31" edit-time="10516" last-saved="1589648546" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
-<version id="20" started="1589639325" uid="db539b72-978a-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
+<version id="31" started="1589639325" uid="050b0eee-9797-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -186,17 +186,9 @@
 <p style="Standard" xid="571" props="text-align:left; dom-dir:ltr"><c></c></p>
 <p style="Standard" xid="572" props="text-align:left; dom-dir:ltr">El hecho de que alguien sea un mentor en un área no significativa que no pueda ser un <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c> en un área diferente. Reconocemos que las personas tienen fortalezas en ciertas habilidades y debilidades en otras. Por lo tanto, está más que bien desempeñar el papel de mentor y <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c>.</p>
 <p style="Standard" xid="573" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="576" props="text-align:left; dom-dir:ltr">Creamos Coding Coach para que sea una plataforma <c props="font-weight:bold">gratuita</c> con el fin de proporcionar a cualquier persona, en cualquier lugar, la capacidad de fomentar una mentoría. Creemos que la mentoría debe ser accesible sin import<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar</c> la ubicación geográfica o el bienestar financiero, por lo que nos permite crear una aplicación accesible.</p>
+<p style="Standard" xid="576" props="text-align:left; dom-dir:ltr">Creamos Coding Coach para que sea una plataforma <c props="font-weight:bold">gratuita</c> con el fin de proporcionar a cualquier persona, en cualquier lugar, la capacidad de fomentar una mentoría. Creemos que la mentoría debe ser accesible sin import<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar</c> la ubicación geográfica o el bienestar financiero, por lo que nos propusimos crear una aplicación accesible.</p>
 <p style="Standard" xid="579" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="580" props="text-align:left; dom-dir:ltr">Coding Coach es de código abierto, lo que significa que está construido por la comunidad, para la comunidad. Queríamos que Coding Coach proporcionara todos los desarrolladores el poder de idear nuevas funciones y ayudar a construir el futuro de la tutoría.</p>
-<p style="Standard" xid="581" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="181">Coding Coach was created to facilitate mentorships between experienced developers (mentors) and juniors (mentees). It provides the mentees with the ability to ask questions, seek advice or assistance in growing their web development skills and knowledge, and gain insight into their career path.</p>
-<p style="Standard" xid="182"><c></c><c></c></p>
-<p style="Standard" xid="183">Just because someone is a mentor in one area doesn’t mean they can’t be a mentee in a different area. We recognize people have strengths in certain skills and weaknesses in others. Thus it’s more than okay to play the role of both mentor and mentee.</p>
-<p style="Standard" xid="184"><c></c><c></c></p>
-<p style="Standard" xid="185">We created Coding Coach to be a <c props="font-weight:bold">free</c><c props="font-weight:bold"></c> platform in order to provide anyone, anywhere with the ability to foster a mentorship. We believe that mentorship should be accessible regardless of geographic location or financial well-being, so we set out to create an accessible application.</p>
-<p style="Standard" xid="186"><c></c><c></c></p>
-<p style="Standard" xid="187">Coding Coach is open-source, meaning it’s built by the community, for the community. We wanted Coding Coach to provide all developers with the power to ideate on new features and help build the future of mentorship.</p>
+<p style="Standard" xid="580" props="text-align:left; dom-dir:ltr">Coding Coach es de código abierto, lo que significa que está construido por la comunidad, para la comunidad. Queríamos que Coding Coach proporcionara todos los desarrolladores el poder de idear nuevas funciones y ayudar a construir el futuro de la mentoría.</p>
 <p style="Standard" xid="188"><c></c><c></c></p>
 <p style="Heading 1" xid="189"><bookmark type="start" name="_rgln6ike572q" xid="190"/><bookmark xml:id="" type="end" name="_rgln6ike572q" xid="191"/></p>
 <p style="Heading 1" xid="192"><bookmark type="start" name="_8j0d85umvust" xid="193"/><bookmark xml:id="" type="end" name="_8j0d85umvust" xid="194"/></p>
@@ -207,7 +199,16 @@
 <p style="Standard" xid="207"><c></c><c></c></p>
 <p style="Standard" xid="208"><c></c><c></c></p>
 <p style="Standard" xid="209"><c></c><c></c></p>
-<p style="Heading 1" xid="210"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark xml:id="" type="end" name="_1yinzctfb3pc" xid="212"/>Approaching A Mentorship</p>
+<p style="Heading 1" xid="210" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_1yinzctfb3pc" xid="211"/><bookmark xml:id="" type="end" name="_1yinzctfb3pc" xid="212"/>Acercarse a una mentoría</p>
+<p style="Standard" xid="585" props="text-align:left; dom-dir:ltr">Una mentoría puede tomar una variedad de formas y conducir una variedad de resultados. Puede ser el tipo de relación que se enfoca en responder preguntas sobre un proyecto en el que estás estancado, o sobre consejos para aprender un nuevo lengu<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aje</c>/tecnología/habilidad; o puede ser p<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ara</c> desarrollar un plan de aprendizaje para aquellos que son autodidactas.</p>
+<p style="Standard" xid="586" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="589" props="text-align:left; dom-dir:ltr">Pero también puede ser el tipo de relación en la que se dan consejos / se comparte información sobre la industria, cómo prepararse para entrevistas o un intercambio de experiencias sobre tecnologías específicas o roles laborales.</p>
+<p style="Standard" xid="590" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="593" props="text-align:left; dom-dir:ltr">Sea abierto a la posibilidad de que pueda tener alguien del otro lado del mundo, que puede hablar un lengu<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aje</c> prim<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c>rio diferente, o puede ser de otra cultura y/o país.</p>
+<p style="Standard" xid="594" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="597" props="text-align:left; dom-dir:ltr">Esto puede plantear una variedad de desafíos. Si se encuentra en extremos opuestos del mundo, puede optar por comunicarse por escrito (correo electrónico, Slack o cualquier otra opción de chat) que permita un tiempo suficiente para responder sin la presión de organizar un horario específico de reunión. O tal vez ambos viven dentro de la misma zona horaria y deciden celebrar sus reuniones de mentoría a través de una herramienta de videoconferencias.</p>
+<p style="Standard" xid="598" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="599" props="text-align:left; dom-dir:ltr"><c></c></p>
 <p style="Standard" xid="213">A mentorship can take a variety of forms and lead to a variety of outcomes. It can be the kind of relationship that focuses on answering questions about a project that you’re stuck on, or about advice on learning a new language/technology/skill; or it can be about developing a learning plan for those who are self-taught. </p>
 <p style="Standard" xid="214"><c></c><c></c></p>
 <p style="Standard" xid="215">But it may also be the kind of relationship where advice is given/information shared about the industry, how to prepare for interviews, or a sharing of experiences about specific technologies or job roles. </p>
