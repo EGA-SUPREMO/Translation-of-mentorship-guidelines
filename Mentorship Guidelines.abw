@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="779" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="797" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue May 19 11:59:02 2020
+<m key="abiword.date_last_changed">Tue May 19 12:23:03 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="116" edit-time="44554" last-saved="1589903942" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="137" edit-time="45995" last-saved="1589905383" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -27,7 +27,7 @@
 <version id="61" started="1589754303" uid="f62063c2-989d-11ea-9937-903c3ffdf9f6" auto="0" top-xid="645"/>
 <version id="62" started="1589827425" uid="8118f89c-9937-11ea-99f8-eadafbb56d79" auto="0" top-xid="695"/>
 <version id="102" started="1589827480" uid="87e4d3f0-995d-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
-<version id="116" started="1589896632" uid="a8e8bf6c-99e9-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
+<version id="137" started="1589896632" uid="03a6458e-99ed-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
@@ -302,17 +302,17 @@
 <p style="Standard" xid="337" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
 <p style="Standard" xid="779" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0in; margin-right:0in">Siempre vale la pena hacer la pregunta, "¿estás cómodo con ... o si nosotros ..." Este tipo de preguntas ayudan a tranquilizarlos y les aseguran que eres sensible a la posibilidad de que se sientan un poco escépticos acerca de recibir guía.</p>
 <p style="Standard" xid="340" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
-<p style="Heading 2" xid="341"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark xml:id="" type="end" name="_d35ry353qip" xid="343"/>How To Respond To Mentees</p>
-<p style="Standard" xid="344">So your first mentee has reached out! You’re extremely excited, but… now what? Below are the steps you should take once you’ve received your first mentee request.</p>
-<p style="Standard" xid="345"><c></c><c></c></p>
-<p style="Standard" xid="346"><c props="font-weight:bold">Determine If This Mentorship Is Right</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="347">The first step is to determine whether to accept or reject this mentorship. Perhaps you already have five mentees and just cannot take on another right now. Or perhaps the mentee wants to improve a skill that you’re not very comfortable providing mentorship in. If you aren’t able to accept a mentee for whatever reason, you must be respectful with your decline.</p>
+<p style="Heading 2" xid="341" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark xml:id="" type="end" name="_d35ry353qip" xid="343"/>Cómo responder a los aprendices</p>
+<p style="Standard" xid="780" props="text-align:left; dom-dir:ltr">¡Entonces su primer aprendiz se ha acercado! Estás extremadamente emocionado, pero ... ¿y ahora qué? A continuación se detallan los pasos que debe seguir una vez que haya recibido su primera solicitud.</p>
+<p style="Standard" xid="781" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="784" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">Determinar si esta mentoría es correcta</c></p>
+<p style="Standard" xid="786" props="text-align:left; dom-dir:ltr">El primer paso es determinar si aceptar o rechazar esta solicitud. Quizás ya tenga cinco aprendices y simplemente no pueda asumir otro ahora. O tal vez el quiera mejorar una habilidad con la que no te sientes muy cómodo brindando mentoría. Si no puedes aceptar a un aprendiz por alguna razón, debes ser respetuoso con tu declive.</p>
 <p style="Standard" xid="348"><c></c><c></c></p>
-<p style="Standard" xid="349">For many mentees, reaching out to a potential mentor is a nerve-wracking experience. Here is one example of a message that would be appropriate to decline a mentee:</p>
-<p style="Standard" xid="350"><c></c><c></c></p>
-<p style="Standard" xid="351"><c props="font-style:italic">“Hi &lt;name&gt;. Thank you so much for contacting me. I would love to mentor you but am unable to at this time. If my situation changes I will let you know. Regards &lt;my name&gt;.”</c><c props="font-style:italic"></c></p>
-<p style="Standard" xid="352" props="font-style:italic"><c></c><c></c></p>
-<p style="Standard" xid="353">If you are able to accept the mentorship, congratulations! You can move on to the next steps.</p>
+<p style="Standard" xid="350" props="text-align:left; dom-dir:ltr"><c></c>Para muchos aprendices, inici<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar conversación con</c> un potencial mentor es una experiencia estresante. Aquí hay un ejemplo de un mensaje que sería apropiado us<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar para</c> rechazar a un aprendiz:</p>
+<p style="Standard" xid="791" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="792" props="text-align:left; dom-dir:ltr">"Hola, &lt;nombre&gt;. Muchas gracias por contactarme. Me encantaría guiarte pero no puedo hacerlo en este momento. Si mi situación cambia, te lo haré saber. Saludos &lt;tu nombre&gt; ".</p>
+<p style="Standard" xid="793" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="796" props="text-align:left; dom-dir:ltr">Si puede aceptar la mentoría, ¡felicidades! Puede pasar a los siguientes pasos.</p>
 <p style="Standard" xid="354" props="font-style:italic"><c></c><c></c></p>
 <p style="Standard" xid="355"><c props="font-weight:bold">Determine Your Availability</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="356">Determine how much time you have available and clarify that up front. How much time can you devote to this mentee? Based upon your availability and their needs, determine how often you should meet.</p>

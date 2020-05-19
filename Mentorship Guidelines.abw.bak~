@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="778" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="788" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue May 19 11:54:18 2020
+<m key="abiword.date_last_changed">Tue May 19 12:13:56 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="112" edit-time="44319" last-saved="1589903658" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="128" edit-time="45520" last-saved="1589904836" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -27,7 +27,7 @@
 <version id="61" started="1589754303" uid="f62063c2-989d-11ea-9937-903c3ffdf9f6" auto="0" top-xid="645"/>
 <version id="62" started="1589827425" uid="8118f89c-9937-11ea-99f8-eadafbb56d79" auto="0" top-xid="695"/>
 <version id="102" started="1589827480" uid="87e4d3f0-995d-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
-<version id="112" started="1589896632" uid="ff515b58-99e8-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
+<version id="128" started="1589896632" uid="bdbd6562-99eb-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
@@ -298,18 +298,15 @@
 <p style="Standard" xid="774" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Su tiempo, su conocimiento, sus experiencias y sus recursos serán invaluables para su aprendiz. Los aprendices aprecian escuchar tu historia, saber lo que funcionó para ti y lo que no; se suma a la riqueza de una mentoría para obtener información sobre cómo son los aspectos cotidianos del trabajo y la industria. Esto puede desmitificar lo desconocido para el <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c> y ayudarlo a desarrollar su confianza.</p>
 <p style="Standard" xid="334" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
 <p style="Standard" xid="776" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c props="font-weight:bold">Se confiable</c></p>
-<p style="Standard" xid="778" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Algunos aprendices pueden ser completamente nuevos en la tutoría y, por lo tanto, es extremadamente importante desarrollar un nivel de confianza. Hacer sugerencias sobre qué camino de aprendizaje seguir, o comunicarse a través del chat de Google, o compartir la pantalla puede ser desalentador y puede hacer que el aprendiz se sienta expuesto o vulnerable.</p>
-<p style="Standard" xid="335"><c props="font-weight:bold">Be Trustworthy</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="336" props="text-indent:0in; margin-left:0in; margin-right:0in">Some mentees may be completely new to mentorship and thus it’s extremely important to build up a level of trust.. Making suggestions about which learning path to follow, or communicating via Google chat, or screen-sharing might be daunting and may make the mentee feel exposed or vulnerable. </p>
+<p style="Standard" xid="778" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Algunos aprendices pueden ser completamente nuevos en la mentoría y, por lo tanto, es extremadamente importante desarrollar un nivel de confianza. Hacer sugerencias sobre qué camino de aprendizaje seguir, o comunicarse a través del chat de Google, o compartir la pantalla puede ser desalentador y puede hacer que el aprendiz se sienta expuesto o vulnerable.</p>
 <p style="Standard" xid="337" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
-<p style="Standard" xid="338" props="text-indent:0in; margin-left:0in; margin-right:0in">It’s always worth asking the question, “are you comfortable with...or if we…” These kinds of questions help put mentees at ease and re-assure them that you are sensitive to the possibility that they may feel a little skeptical about receiving guidance.</p>
-<p style="Standard" xid="339" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
+<p style="Standard" xid="779" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0in; margin-right:0in">Siempre vale la pena hacer la pregunta, "¿estás cómodo con ... o si nosotros ..." Este tipo de preguntas ayudan a tranquilizarlos y les aseguran que eres sensible a la posibilidad de que se sientan un poco escépticos acerca de recibir guía.</p>
 <p style="Standard" xid="340" props="text-indent:0in; margin-left:0in; margin-right:0in"><c></c><c></c></p>
-<p style="Heading 2" xid="341"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark xml:id="" type="end" name="_d35ry353qip" xid="343"/>How To Respond To Mentees</p>
-<p style="Standard" xid="344">So your first mentee has reached out! You’re extremely excited, but… now what? Below are the steps you should take once you’ve received your first mentee request.</p>
-<p style="Standard" xid="345"><c></c><c></c></p>
-<p style="Standard" xid="346"><c props="font-weight:bold">Determine If This Mentorship Is Right</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="347">The first step is to determine whether to accept or reject this mentorship. Perhaps you already have five mentees and just cannot take on another right now. Or perhaps the mentee wants to improve a skill that you’re not very comfortable providing mentorship in. If you aren’t able to accept a mentee for whatever reason, you must be respectful with your decline.</p>
+<p style="Heading 2" xid="341" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_d35ry353qip" xid="342"/><bookmark xml:id="" type="end" name="_d35ry353qip" xid="343"/>Cómo responder a los aprendices</p>
+<p style="Standard" xid="780" props="text-align:left; dom-dir:ltr">¡Entonces su primer aprendiz se ha acercado! Estás extremadamente emocionado, pero ... ¿y ahora qué? A continuación se detallan los pasos que debe seguir una vez que haya recibido su primera solicitud.</p>
+<p style="Standard" xid="781" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="784" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">Determinar si esta mentoría es correcta</c></p>
+<p style="Standard" xid="786" props="text-align:left; dom-dir:ltr">El primer paso es determinar si aceptar o rechazar esta solicitud. Quizás ya tenga cinco aprendices y simplemente no pueda asumir otro ahora. O tal vez el quiera mejorar una habilidad con la que no te sientes muy cómodo brindando mentoría. Si no puedes aceptar a un aprendiz por alguna razón, debes ser respetuoso con tu declive.</p>
 <p style="Standard" xid="348"><c></c><c></c></p>
 <p style="Standard" xid="349">For many mentees, reaching out to a potential mentor is a nerve-wracking experience. Here is one example of a message that would be appropriate to decline a mentee:</p>
 <p style="Standard" xid="350"><c></c><c></c></p>
