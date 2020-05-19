@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue May 19 18:12:04 2020
+<m key="abiword.date_last_changed">Tue May 19 18:43:35 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="174" edit-time="60676" last-saved="1589926324" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="191" edit-time="62567" last-saved="1589928215" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -28,7 +28,7 @@
 <version id="62" started="1589827425" uid="8118f89c-9937-11ea-99f8-eadafbb56d79" auto="0" top-xid="695"/>
 <version id="102" started="1589827480" uid="87e4d3f0-995d-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
 <version id="171" started="1589896632" uid="c14ea2ae-9a0e-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
-<version id="174" started="1589926283" uid="c540349a-9a1d-11ea-8290-f24518682d39" auto="0" top-xid="836"/>
+<version id="191" started="1589926283" uid="2cc5515a-9a22-11ea-8290-f24518682d39" auto="0" top-xid="836"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -345,17 +345,12 @@
 <p style="Standard" xid="831" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0in; margin-right:0in"><c></c><c></c></p>
 <p style="Standard" xid="384" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0in; margin-right:0in"><c></c><c props="font-weight:bold">Respeta los límites</c></p>
 <p style="Standard" xid="830" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0in; margin-right:0in">Se consciente de no ser demasiado exigente con tiempo de tu mentor. Cada mentoría será única en frecuencia de comunicación. Después de las primeras interacciones, comenzarás a tener una idea de lo que funciona para ti y tu mentor, pero, en caso de duda, puedes ser directo sobre los mejores momentos / días para comunicarte.</p>
-<p style="Heading 2" xid="388" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_kddkw5limjwf" xid="389"/><bookmark xml:id="" type="end" name="_kddkw5limjwf" xid="390"/>Como dar el primer paso</p>
-<p style="Standard" xid="837" props="text-align:left; dom-dir:ltr">Primero, determine qué tipo de tutoría está buscando o qué habilidad está buscando mejorar. Luego, determine qué tipos de cosas son importantes para usted en una tutoría. Quizás esté buscando a alguien que viva en la misma ubicación geográfica. Una vez que haya resuelto estos requisitos, puede comenzar su búsqueda del mentor perfecto.</p>
+<p style="Heading 2" xid="388" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_kddkw5limjwf" xid="389"/><bookmark xml:id="" type="end" name="_kddkw5limjwf" xid="390"/>Como acercarse a un mentor</p>
+<p style="Standard" xid="837" props="text-align:left; dom-dir:ltr">Primero, determin<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> qué tipo de mentoría est<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c>s buscando o que habilidad est<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> buscando mejorar. Luego, determin<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> que tipos de cosas son importantes para ti en una mentoría. Quizás est<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> buscando a alguien que viva en la misma ubicación geográfica. Una vez que hayas resuelto estos requisitos, puedes comenzar tu búsqueda por un mentor perfecto.</p>
 <p style="Standard" xid="838" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="841" props="text-align:left; dom-dir:ltr">Una vez que haya encontrado al mentor con el que desea comunicarse, es hora de comunicarse. Aquí hay un mensaje simple que quizás desee enviar a un mentor potencial:</p>
+<p style="Standard" xid="841" props="text-align:left; dom-dir:ltr">Una vez que hayas encontrado al mentor con el que deseas comunicarte, es hora de <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">acercarte</c>. Aquí hay un mensaje simple que quizás quier<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c>s enviar a tu potenci<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">al</c> mentor:</p>
 <p style="Standard" xid="844" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="845" props="text-align:left; dom-dir:ltr">"Hola, &lt;nombre&gt;. Estoy buscando mejorar mis habilidades en &lt;skill&gt; y encontré tu perfil en Coding Coach. Me encantaría poder establecer una tutoría y trabajar hacia mi objetivo. Espero tener noticias suyas.</p>
-<p style="Standard" xid="391">First, determine which type of mentorship you’re looking for or which skill you’re looking to improve. Next, determine what types of things are important to you in a mentorship. Perhaps you’re looking for someone who lives in the same geographic location. Once you have these requirements figured out, you can begin your search for the perfect mentor.</p>
-<p style="Standard" xid="392"><c></c><c></c></p>
-<p style="Standard" xid="393">Once you’ve found the mentor you’d like to contact, it’s time to reach out. Here is a simple message you might want to send to a potential mentor:</p>
-<p style="Standard" xid="394"><c></c><c></c></p>
-<p style="Standard" xid="395"><c props="font-style:italic">“Hi &lt;name&gt;. I am looking to improve my skills in &lt;skill&gt; and found your profile on Coding Coach. I would love if we could establish a mentorship and work towards my goal. I am looking forward to hearing back from you.”</c><c props="font-style:italic"></c></p>
+<p style="Standard" xid="845" props="text-align:left; dom-dir:ltr"><c props="text-decoration:none; font-style:italic">"Hola, &lt;nombre&gt;. Estoy buscando mejorar mis habilidades en &lt;h</c><c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:italic; lang:en-US">abilidad</c><c props="text-decoration:none; font-style:italic">&gt; y encontré tu perfil en Coding Coach. Me encantaría si pudier</c><c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:italic; lang:en-US">a</c><c props="text-decoration:none; font-style:italic">mos establecer una mentoría y trabajar hacia mi objetivo. Espero tener noticias tuyas.</c></p>
 <p style="Standard" xid="396" props="font-style:italic"><c></c><c></c></p>
 <p style="Heading 2" xid="397"><bookmark type="start" name="_mg92pvkftt30" xid="398"/><bookmark xml:id="" type="end" name="_mg92pvkftt30" xid="399"/>Searching For A Mentor</p>
 <p style="Standard" xid="400">Head over to <a xlink:href="https://mentors.codingcoach.io/" xid="401"><c props="text-decoration:underline; color:#1155cc">Coding Coach</c><c props="text-decoration:underline; color:#1155cc"></c></a> and look through the list of mentors. You can search, using the filters, for specific languages, technologies, or country. You can also favourite mentors that spark an interest.</p>
