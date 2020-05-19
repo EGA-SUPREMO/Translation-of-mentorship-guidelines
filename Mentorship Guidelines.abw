@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="797" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="812" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Tue May 19 12:23:03 2020
+<m key="abiword.date_last_changed">Tue May 19 12:51:15 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="137" edit-time="45995" last-saved="1589905383" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="150" edit-time="47687" last-saved="1589907075" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -27,7 +27,7 @@
 <version id="61" started="1589754303" uid="f62063c2-989d-11ea-9937-903c3ffdf9f6" auto="0" top-xid="645"/>
 <version id="62" started="1589827425" uid="8118f89c-9937-11ea-99f8-eadafbb56d79" auto="0" top-xid="695"/>
 <version id="102" started="1589827480" uid="87e4d3f0-995d-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
-<version id="137" started="1589896632" uid="03a6458e-99ed-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
+<version id="150" started="1589896632" uid="f468b1f2-99f0-11ea-959e-977076097a6f" auto="0" top-xid="771"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
@@ -313,16 +313,16 @@
 <p style="Standard" xid="792" props="text-align:left; dom-dir:ltr">"Hola, &lt;nombre&gt;. Muchas gracias por contactarme. Me encantaría guiarte pero no puedo hacerlo en este momento. Si mi situación cambia, te lo haré saber. Saludos &lt;tu nombre&gt; ".</p>
 <p style="Standard" xid="793" props="text-align:left; dom-dir:ltr"><c></c></p>
 <p style="Standard" xid="796" props="text-align:left; dom-dir:ltr">Si puede aceptar la mentoría, ¡felicidades! Puede pasar a los siguientes pasos.</p>
-<p style="Standard" xid="354" props="font-style:italic"><c></c><c></c></p>
-<p style="Standard" xid="355"><c props="font-weight:bold">Determine Your Availability</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="356">Determine how much time you have available and clarify that up front. How much time can you devote to this mentee? Based upon your availability and their needs, determine how often you should meet.</p>
+<p style="Standard" xid="801" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="354" props="text-align:left; dom-dir:ltr; font-style:italic"><c></c><c props="font-weight:bold; font-style:normal">Determin</c><c props="font-style:normal; font-weight:bold">a</c><c props="font-weight:bold; font-style:normal"> su disponibilidad</c></p>
+<p style="Standard" xid="799" props="text-align:left; dom-dir:ltr; font-style:italic"><c props="font-style:normal">Determin</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c><c props="font-style:normal"> cuánto tiempo tienes disponible y aclar</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c><c props="font-style:normal"> eso por adelantado. ¿Cuánto tiempo puedes dedicar a este </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c props="font-style:normal">? Según tu disponibilidad y sus necesidades, determine con qué frecuencia se deben reunir.</c></p>
 <p style="Standard" xid="357"><c></c><c></c></p>
-<p style="Standard" xid="358"><c props="font-weight:bold">Set Goals</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="359">Ask clarifying questions so that you understand exactly what the mentee is seeking advice about. What goals do they want to achieve from this mentorship?</p>
-<p style="Standard" xid="360"><c></c><c></c></p>
-<p style="Standard" xid="361">When making suggestions about what they could/should be learning, keep in mind that a mentee can become overwhelmed when you are too many steps ahead of them, or when they haven’t yet covered the basics of the tasks you are suggesting they try. </p>
-<p style="Standard" xid="362"><c></c><c></c></p>
-<p style="Standard" xid="363">As far as possible try to clarify with them where they’re at in their coding journey, to reduce the chances of misunderstanding and frustration before making suggestions of how they should proceed in their learning.</p>
+<p style="Standard" xid="802" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">Fija metas</c></p>
+<p style="Standard" xid="804" props="text-align:left; dom-dir:ltr">Haga preguntas aclaratorias para que entiendas exactamente sobre qué está buscando consejo el <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c>. ¿Qué objetivos quieren lograr con esta mentoría?</p>
+<p style="Standard" xid="805" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="808" props="text-align:left; dom-dir:ltr">Al hacer sugerencias sobre lo que podrían / ​​deberían estar aprendiendo, tenga en cuenta que un <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c> puede sentirse abrumado cuando estás demasiado adelantado o cuando aún no ha cubierto los conceptos básicos de las tareas que sugieres que intenten.</p>
+<p style="Standard" xid="809" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="812" props="text-align:left; dom-dir:ltr">Intent<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a </c>aclarar con ellos t<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">anto como sea posible</c> dónde se encuentran en su viaje de l<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a programación</c>, para reducir las posibilidades de malentendidos y frustraciones antes de hacer sugerencias sobre cómo deben proceder en su aprendizaje.</p>
 <p style="Standard" xid="364"><c></c><c></c></p>
 <p style="Standard" xid="365"><c></c><c></c></p>
 <p style="Standard" xid="366"><c></c><c></c></p>
