@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="752" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="763" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Mon May 18 17:45:59 2020
+<m key="abiword.date_last_changed">Mon May 18 19:13:48 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Thu May 14 13:19:04 2020
@@ -19,14 +19,14 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="87" edit-time="34602" last-saved="1589838359" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="98" edit-time="37003" last-saved="1589843628" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
 <version id="46" started="1589649524" uid="38b9ab7c-979e-11ea-9534-d9157517e987" auto="0" top-xid="616"/>
 <version id="61" started="1589754303" uid="f62063c2-989d-11ea-9937-903c3ffdf9f6" auto="0" top-xid="645"/>
 <version id="62" started="1589827425" uid="8118f89c-9937-11ea-99f8-eadafbb56d79" auto="0" top-xid="695"/>
-<version id="87" started="1589827480" uid="f602f2e8-9950-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
+<version id="98" started="1589827480" uid="3a9ddcae-995d-11ea-8194-e5be6e9e2704" auto="0" top-xid="700"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -268,14 +268,9 @@
 <p style="Heading 2" xid="299" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_yk43f8axggjo" xid="300"/><bookmark xml:id="" type="end" name="_yk43f8axggjo" xid="301"/>Técnico</p>
 <p style="Standard" xid="744" props="text-align:left; dom-dir:ltr">Las mentorías técnicas son las más populares y hay algunas maneras de abordarlas. Mi tipo favorito de mentorí<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> técnic<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> es basado en proyectos.</p>
 <p style="Standard" xid="745" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="748" props="text-align:left; dom-dir:ltr">Todos aprendemos la programación mejor escribiendo código, por lo tanto, es una buena idea crear un proyecto en el que tú y tu mentor puedan trabajar. Antes de cada reunión, establezca una lista de características que desees implementar y luego pas<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> la reunión revisando tu código.</p>
+<p style="Standard" xid="748" props="text-align:left; dom-dir:ltr">Todos aprendemos la programación mejor escribiendo código, por lo tanto, es una buena idea crear un proyecto en el que tú y tu mentor puedan trabajar. Antes de cada reunión, establezca una lista de características que desees implementar y luego pas<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> la reunión de mentor<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ía</c> revisando tu código.</p>
 <p style="Standard" xid="751" props="text-align:left; dom-dir:ltr"><c></c></p>
-<p style="Standard" xid="752" props="text-align:left; dom-dir:ltr">También puede elegir una tutoría técnica estructurada más como una pregunta y respuesta. Es importante asistir a la reunión con preguntas ya escritas para que pueda maximizar sus reuniones de tutoría.</p>
-<p style="Standard" xid="302">Technical mentorships are the most popular mentorship type and there are a few ways you can approach them. My favorite type of technical mentor is project-based.</p>
-<p style="Standard" xid="303"><c></c><c></c></p>
-<p style="Standard" xid="304">We all learn programming best by writing code, thus it’s a good idea to create a project you and your mentor can work through. Before each meeting, set a list of features you want to implement, and then spend the mentor meeting reviewing your code.</p>
-<p style="Standard" xid="305"><c></c><c></c></p>
-<p style="Standard" xid="306">You may also choose a technical mentorship structured more as a question and answer. It’s important to come to the meeting with questions already written out so you can maximize your mentorship meetings.</p>
+<p style="Standard" xid="752" props="text-align:left; dom-dir:ltr">También puede elegir una mentoría técnica estructurada más como pregunta y respuesta. Es importante asistir a la reunión con preguntas ya escritas para que puedas maximizar l<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a eficacia de</c> l<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> reuniones.</p>
 <p style="Standard" xid="307"><c></c><c></c></p>
 <p style="Standard" xid="308"><c></c><c></c></p>
 <p style="Standard" xid="309"><c></c><c></c></p>
@@ -285,12 +280,14 @@
 <p style="Heading 1" xid="313"><bookmark type="start" name="_v4u78d3jyivk" xid="314"/><bookmark xml:id="" type="end" name="_v4u78d3jyivk" xid="315"/></p>
 <p style="Standard" xid="316"><c></c><c></c></p>
 <p style="Standard" xid="317"><c></c><c></c></p>
-<p style="Heading 1" xid="318"><bookmark type="start" name="_y8kdre6jg8hl" xid="319"/><bookmark xml:id="" type="end" name="_y8kdre6jg8hl" xid="320"/>Mentor Guidelines</p>
-<p style="Standard" xid="321">Being a great mentor doesn’t have to be hard, but it can be a bit confusing to get started. Below are some of the ways you can go from a good mentor to a great mentor.</p>
-<p style="Standard" xid="322"><c></c><c></c></p>
-<p style="Standard" xid="323"><c props="font-weight:bold">Be Patient</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="324">Mentees may not always be able to articulate what kind of help they need and it will require patience as they try to describe what they’re struggling with. You can help coax them along, but be patient; they’ll get there.</p>
-<p style="Standard" xid="325"><c></c><c></c></p>
+<p style="Heading 1" xid="318" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_y8kdre6jg8hl" xid="756"/><bookmark xml:id="" type="end" name="_y8kdre6jg8hl" xid="755"/>Pautas para mentores</p>
+<p style="Standard" xid="757" props="text-align:left; dom-dir:ltr">Ser un gran mentor no tiene que ser difícil, pero puede ser un poco confuso al comenzar. A continuación se presentan algunas de las formas en que puede pasar de un buen mentor a un gran mentor.</p>
+<p style="Standard" xid="760" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="322" props="text-align:left; dom-dir:ltr"><c></c><c props="font-weight:bold">Se paciente</c></p>
+<p style="Standard" xid="759" props="text-align:left; dom-dir:ltr">Es posible que los aprendices no siempre puedan articular qué tipo de ayuda necesitan y requerirá paciencia mientras intentan describir con qué están luchando. Puedes ayudar a convencerlos, pero se paciente; Ellos llegarán allí.</p>
+<p style="Standard" xid="763" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Standard" xid="325" props="text-align:left; dom-dir:ltr"><c></c><c props="font-weight:bold">Se un buen comunicador</c></p>
+<p style="Standard" xid="762" props="text-align:left; dom-dir:ltr">Es probable que tu aprendiz provenga de otra nación, por lo que pueden haber barreras culturales, lingüísticas e industriales que superar. Te requerirá poder comunicarte bien a pesar de estas barreras, y realmente escuchar lo que su mentoreado está tratando de decir.</p>
 <p style="Standard" xid="326"><c props="font-weight:bold">Be A Good Communicator</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="327">Your mentee is likely to come from another nation so there may be cultural, language, and industry barriers to overcome. It will require you to be able to communicate well despite these barriers, and to really listen to what your mentee is trying to say.</p>
 <p style="Standard" xid="328"><c></c><c></c></p>
