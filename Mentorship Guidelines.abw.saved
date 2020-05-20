@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="251" edit-time="76966" last-saved="1590009300" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="251" edit-time="76995" last-saved="1590009300" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -375,7 +375,7 @@
 <p style="Standard" xid="424"><c></c><c></c></p>
 <p style="Heading 1" xid="425" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_q191e7cporzb" xid="426"/><bookmark xml:id="" type="end" name="_q191e7cporzb" xid="427"/><c>Preguntas frecuentes para mentores</c></p>
 <p style="Standard" xid="874" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">¿Cuánto tiempo a la semana debo esperar que esté disponible para esto?</c></p>
-<p style="Standard" xid="876" props="text-align:left; dom-dir:ltr"><c>T</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">anto tiempo</c><c> que se sienta cómodo, idealmente tanto como lo necesite el </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c>, pero estos límites de comodidad deberán determinarse con tu </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c> cuando se presenten el uno al otro. Algunas mentorías se reúnen semanalmente, algunas se reúnen mensualmente. Otros se reúnen según sea necesario. Es importante evaluar la mentoría y llegar a un acuerdo que se adapte a tus necesidades.</c></p>
+<p style="Standard" xid="876" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold">T</c><c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:bold; font-style:normal; lang:en-US">anto tiempo</c><c props="font-weight:bold"> que se sienta cómodo</c><c>, idealmente tanto como lo necesite el </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c>, pero estos límites de comodidad deberán determinarse con tu </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c> cuando se presenten el uno al otro. Algunas mentorías se reúnen semanalmente, algunas se reúnen mensualmente. Otros se reúnen según sea necesario. Es importante evaluar la mentoría y llegar a un acuerdo que se adapte a tus necesidades.</c></p>
 <p style="Standard" xid="428"><c></c><c></c></p>
 <p style="Standard" xid="429"><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="432"><c props="font-weight:bold">What sort of things will be expected of me?</c><c props="font-weight:bold"></c></p>
