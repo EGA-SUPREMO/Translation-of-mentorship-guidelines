@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="889" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="886" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Wed May 20 20:02:05 2020
+<m key="abiword.date_last_changed">Wed May 20 19:55:38 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Wed May 20 17:38:31 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="270" edit-time="86947" last-saved="1590019325" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="261" edit-time="86593" last-saved="1590018938" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -32,7 +32,7 @@
 <version id="198" started="1589929606" uid="d57d0af4-9a27-11ea-9e56-d1b7dcf8e706" auto="0" top-xid="850"/>
 <version id="245" started="1589992896" uid="1d1c96d0-9ad3-11ea-81fb-d7bd2a789344" auto="0" top-xid="855"/>
 <version id="251" started="1590007621" uid="f6bbace0-9ade-11ea-8a83-e0627cd00635" auto="0" top-xid="873"/>
-<version id="270" started="1590010001" uid="4e9ff486-9af6-11ea-903a-b14efc38ad86" auto="0" top-xid="881"/>
+<version id="261" started="1590010001" uid="67cb4ac4-9af5-11ea-903a-b14efc38ad86" auto="0" top-xid="881"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -382,12 +382,12 @@
 <p style="Standard" xid="878" props="text-align:left; dom-dir:ltr"><c>Simplemente serás un punto de contacto para el </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c>. Es posible que necesiten ayuda con </c><c props="font-style:italic; font-weight:bold">habilidades blandas, habilidades técnicas</c><c>, consejos profesionales o simplemente les gustaría hablar con alguien que entienda todos los </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">acr</c><c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ó</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">nimos</c><c> que conocen. No te preocupes, solo se espera de ti que compartas tu experiencia, no serás responsable de tomar decisiones en nombre de tu </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c>.</c></p>
 <p style="Standard" xid="886" props="text-align:left; dom-dir:ltr"><c></c></p>
 <p style="Standard" xid="434" props="text-align:left; font-weight:bold; dom-dir:ltr"><c></c><c>¿Qué hago si no sé la respuesta a algo?</c></p>
-<p style="Standard" xid="885" props="text-align:left; font-weight:bold; dom-dir:ltr"><c>¡</c><c props="font-weight:normal">Hey, tu sabes mucho! Confía en nosotros, lo que sea que tengas que compartir es valioso y si no sabes de inmediato la respuesta, </c><c props="font-weight:bold; font-style:italic">r</c><c props="font-style:italic; font-weight:bold">esolviendo el problema</c><c props="font-weight:normal"> con tu </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprendiz</c><c props="font-weight:normal"> puede ser una excelente manera para que ambos aprendan.</c></p>
+<p style="Standard" xid="885" props="text-align:left; font-weight:bold; dom-dir:ltr"><c>¡</c><c props="font-weight:normal">Hey, tu sabes mucho! Confía en nosotros, lo que sea que tengas que compartir es valioso y si no sabes de inmediato la respuesta, para resolver el problema con tu protegido puede ser una excelente manera para que ambos aprendan.</c></p>
 <p style="Standard" xid="435" props="font-family:Arial; font-size:11pt; color:000000; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-weight:bold">What do I do if I don't know the answer to something? </c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="436">Hey, you know a lot! Trust us, whatever you have to share is valuable and if you don't immediately know the answer <c props="font-weight:bold; font-style:italic">working through the problem</c> with your protege can be a great way for both you to learn.</p>
-<p style="Standard" xid="889"><c></c></p>
-<p style="Standard" xid="437" props="text-align:left; dom-dir:ltr"><c></c><c props="font-weight:bold">¿Puedo cobrar dinero por mi mentoría?</c></p>
-<p style="Standard" xid="888" props="text-align:left; dom-dir:ltr"><c>Bueno, como dijimos, Coding Coach es una plataforma gratuita que fue desarrollada con la ayuda de la comunidad. Todas esas personas </c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">buenas</c><c> son voluntarias y están invirtiendo su tiempo para el bien de la comunidad. Por lo tanto, la mentoría también debería ser gratuita. Hay algunas plataformas de pago para la mentoría pagada y entendemos completamente a cualquiera que quiera recibir un pago por su excelente servicio, pero no es el objetivo de nuestra comunidad.</c></p>
+<p style="Standard" xid="436">Hey, you know a lot! Trust us, whatever you have to share is valuable and if you don't immediately know the answer working through the problem with your protege can be a great way for both you to learn.</p>
+<p style="Standard" xid="437"><c></c><c></c></p>
+<p style="Standard" xid="438"><c props="font-weight:bold">Can I charge money for my mentorship?</c><c props="font-weight:bold"></c></p>
+<p style="Standard" xid="439">Well, as we said, CodingCoach is a free platform which was developed by the help of the community. All of those good people are volunteers and they are investing their time for the good of the community. So, mentorship should be free as well. There are some paid platforms for paid mentorship and we completely understand anyone who wants to get paid for their great service, but it's not the goal of our community. </p>
 <p style="Standard" xid="440"><c></c><c></c></p>
 <p style="Standard" xid="441"><c></c><c></c></p>
 <p style="Standard" xid="442"><c></c><c></c></p>
@@ -407,7 +407,7 @@
 <p style="Standard" xid="456"><c></c><c></c></p>
 <p style="Standard" xid="457"><c></c><c></c></p>
 <p style="Standard" xid="458"><c></c><c></c></p>
-<p style="Heading 1" xid="459" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_x8amyc5dfy0e" xid="460"/><bookmark xml:id="" type="end" name="_x8amyc5dfy0e" xid="461"/><c>Preguntas frecuentes para aprendices</c></p>
+<p style="Heading 1" xid="459"><bookmark type="start" name="_x8amyc5dfy0e" xid="460"/><bookmark xml:id="" type="end" name="_x8amyc5dfy0e" xid="461"/>Mentee FAQ</p>
 <p style="Standard" xid="462"><c></c><c></c></p>
 <p style="Standard" xid="463"><c props="font-weight:bold">What can my mentor help me with?</c><c props="font-weight:bold"></c></p>
 <p style="Standard" xid="464">Your mentor can</p>
