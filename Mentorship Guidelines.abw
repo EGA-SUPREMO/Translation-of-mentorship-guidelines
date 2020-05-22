@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Fri May 22 15:48:48 2020
+<m key="abiword.date_last_changed">Fri May 22 16:01:12 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Wed May 20 17:38:31 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="366" edit-time="94957" last-saved="1590176928" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="373" edit-time="95701" last-saved="1590177672" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -35,7 +35,7 @@
 <version id="312" started="1590010001" uid="066918ee-9afd-11ea-903a-b14efc38ad86" auto="0" top-xid="881"/>
 <version id="314" started="1590087190" uid="bac63f96-9b94-11ea-9e2e-da24a6a143a3" auto="0" top-xid="939"/>
 <version id="346" started="1590153437" uid="31a85144-9c35-11ea-9efa-961d39868d48" auto="0" top-xid="941"/>
-<version id="366" started="1590175427" uid="40f96824-9c65-11ea-93b1-c3453ea403de" auto="0" top-xid="948"/>
+<version id="373" started="1590175427" uid="fc6bba98-9c66-11ea-93b1-c3453ea403de" auto="0" top-xid="948"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="keep-with-next:yes; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; font-size:26pt"/>
@@ -345,13 +345,13 @@
 <p style="Standard" xid="819" props="text-align:left; dom-dir:ltr">Se respetuoso con el tiempo de tu mentor. Aparece cuando hayas aceptado reunirte. Es probable que tu mentor sea una persona muy ocupada y está renunciando a su tiempo, probablemente durante las horas de trabajo o en su tiempo libre, para reunirse contigo. Además, tu quieres aprovechar al máximo sus reuniones.</p>
 <p style="Standard" xid="825" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
 <p style="Standard" xid="378" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c></c><c props="font-weight:bold">Muestra gratitud</c></p>
-<p style="Standard" xid="822" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Los mentores lo ayudarán de forma gratuita para que estén utilizando su propio tiempo y recursos y sin pedir nada a cambio. No lo dé por sentado y demuestre su agradecimiento agradeciéndoles. Dales comentarios específicos sobre cómo te han ayudado; no solo los alienta, sino que también los ayuda a convertirse en mejores mentores.</p>
+<p style="Standard" xid="822" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Los mentores te ayudarán de forma gratuita para que estén utilizando su propio tiempo y recursos y sin pedir nada a cambio. No lo dés por sentado y demuestr<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> tu <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">aprecio</c> agradeciéndoles. Dales comentarios específicos sobre cómo te han ayudado; no solo los alienta, sino que también los ayuda a convertirse en mejores mentores.</p>
 <p style="Standard" xid="828" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c></c><c></c></p>
 <p style="Standard" xid="381" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c props="font-weight:bold">Se abierto al aprendizaje</c><c props="font-weight:bold"></c></p>
-<p style="Standard" xid="827" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Se abierto a los consejos que te da tu mentor. Recibir instrucciones de alguien con más experiencia que tu ayuda mucho a mostrarle a un mentor que está dispuesto a aprender.</p>
+<p style="Standard" xid="827" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Se abierto a los consejos que te da tu mentor. Recibir instrucciones de alguien con más experiencia que tu, ayuda mucho a mostrarle a un mentor que estás dispuesto a aprender.</p>
 <p style="Standard" xid="831" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c></c><c></c></p>
 <p style="Standard" xid="384" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in"><c></c><c props="font-weight:bold">Respeta los límites</c></p>
-<p style="Standard" xid="830" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Se consciente de no ser demasiado exigente con tiempo de tu mentor. Cada mentoría será única en frecuencia de comunicación. Después de las primeras interacciones, comenzarás a tener una idea de lo que funciona para ti y tu mentor, pero, en caso de duda, puedes ser directo sobre los mejores momentos / días para comunicarte.</p>
+<p style="Standard" xid="830" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-right:0in; margin-left:0in">Se consciente de no ser demasiado exigente con tiempo de tu mentor. Cada mentoría será única en l<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a </c>frecuencia de comunicación. Después de las primeras interacciones, comenzarás a tener una idea de lo que funciona para ti y tu mentor, pero, en caso de duda, puedes ser directo sobre los mejores momentos / días para comunicarte.</p>
 <p style="Heading 2" xid="388" props="text-align:left; dom-dir:ltr"><bookmark type="start" name="_kddkw5limjwf" xid="389"/><bookmark xml:id="" type="end" name="_kddkw5limjwf" xid="390"/>Como acercarse a un mentor</p>
 <p style="Standard" xid="837" props="text-align:left; dom-dir:ltr">Primero, determin<c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c><c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c> qué tipo de mentoría est<c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c>s buscando o que habilidad est<c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> buscando mejorar. Luego, determin<c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a</c> que tipos de cosas son importantes para ti en una mentoría. Quizás est<c props="font-family:Arial; text-decoration:none; color:000000; font-size:11pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> buscando a alguien que viva en la misma ubicación geográfica. Una vez que hayas resuelto estos requisitos, puedes comenzar tu búsqueda por un mentor perfecto.</p>
 <p style="Standard" xid="838" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
