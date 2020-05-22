@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Fri May 22 09:36:45 2020
+<m key="abiword.date_last_changed">Fri May 22 09:29:49 2020
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.date">Wed May 20 17:38:31 2020
@@ -19,7 +19,7 @@
 <rdf>
 <t  s="manifest.rdf"  p="http://www.w3.org/1999/02/22-rdf-syntax-ns#type"  objecttype="1"  xsdtype=""  >http://docs.oasis-open.org/ns/office/1.2/meta/pkg#Document</t>
 </rdf>
-<history version="329" edit-time="91581" last-saved="1590154605" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
+<history version="325" edit-time="91484" last-saved="1590154189" uid="f8c91cac-9606-11ea-80f6-ab6955c84f87">
 <version id="1" started="1589476744" uid="02df5292-9607-11ea-80f6-ab6955c84f87" auto="0" top-xid="498"/>
 <version id="7" started="1589478854" uid="5cd6d7a6-960d-11ea-91e0-e00246c4527a" auto="0" top-xid="530"/>
 <version id="37" started="1589639325" uid="d65cd738-9798-11ea-97d0-ea1d534372d2" auto="0" top-xid="548"/>
@@ -34,7 +34,7 @@
 <version id="251" started="1590007621" uid="f6bbace0-9ade-11ea-8a83-e0627cd00635" auto="0" top-xid="873"/>
 <version id="312" started="1590010001" uid="066918ee-9afd-11ea-903a-b14efc38ad86" auto="0" top-xid="881"/>
 <version id="314" started="1590087190" uid="bac63f96-9b94-11ea-9e2e-da24a6a143a3" auto="0" top-xid="939"/>
-<version id="329" started="1590153437" uid="47a1ee50-9c31-11ea-9efa-961d39868d48" auto="0" top-xid="941"/>
+<version id="325" started="1590153437" uid="4f50f0d4-9c30-11ea-9efa-961d39868d48" auto="0" top-xid="941"/>
 </history>
 <styles>
 <s type="P" name="Title" basedon="normal" followedby="Standard" props="font-size:26pt; margin-top:0in; line-height:1.000000; margin-bottom:0.0417in; keep-with-next:yes"/>
@@ -252,7 +252,7 @@
 <p level="1" listid="1546" style="Standard" xid="675" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:Liberation Sans"><c props="list-tag:1550"></c><field type="list_label" xid="686" props="width:0in; font-family:Arial; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-none; font-style:normal; text-transform:none; font-variant:normal; list-style:Bullet List; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:11pt; font-stretch:normal"></field><c props="width:0in; font-family:Arial; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-none; font-style:normal; text-transform:none; font-variant:normal; list-style:Bullet List; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:11pt; font-stretch:normal">	</c>Agregar estado al componente React</p>
 <p level="1" listid="1546" style="Standard" xid="677" props="list-delim:%L; list-decimal:NULL; list-style:Bullet List; start-value:0; dom-dir:ltr; margin-left:0.5000in; text-indent:-0.3000in; text-align:left; field-font:Liberation Sans"><c props="list-tag:1551"></c><field type="list_label" xid="687" props="width:0in; font-family:Arial; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-none; font-style:normal; text-transform:none; font-variant:normal; list-style:Bullet List; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:11pt; font-stretch:normal"></field><c props="width:0in; font-family:Arial; display:inline; color:000000; font-weight:normal; text-position:normal; lang:en-none; font-style:normal; text-transform:none; font-variant:normal; list-style:Bullet List; bgcolor:transparent; homogeneous:1; text-decoration:none; height:0in; font-size:11pt; font-stretch:normal">	</c>Actualizar estado en la entrada del usuario</p>
 <p style="Standard" xid="680" props="text-align:left; text-indent:0in; dom-dir:ltr; margin-left:0pt"><c></c><c></c></p>
-<p style="Standard" xid="681" props="text-align:left; dom-dir:ltr">Las mentorías pueden conducir a algo más que <c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">a la mejora de</c> habilidades y nuev<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as conexiones</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c>; También podrían conducir a un nuevo trabajo, una oportunidad de viaj<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">ar</c> o una colaboración en un proyecto. ¡Esperamos que las conexiones hech<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as</c> en Coding Coach se disfruten al máximo!</p>
+<p style="Standard" xid="681" props="text-align:left; dom-dir:ltr">Las mentorías pueden conducir a algo más que habilidades mejoradas y nuev<c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">as conexiones</c><c props="font-family:Arial; font-size:11pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US"></c>; También podrían conducir a un nuevo trabajo, una oportunidad de viaje o una colaboración en un proyecto. ¡Esperamos que las conexiones realizadas en Coding Coach se disfruten al máximo!</p>
 <p style="Standard" xid="701" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
 <p style="Standard" xid="702" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
 <p style="Standard" xid="703" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
