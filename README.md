@@ -3,6 +3,7 @@ Translation of [Coding Coach mentorship guidelines](https://docs.google.com/docu
 
 ## Download
 Here: https://github.com/EGA-SUPREMO/Translation-of-mentorship-guidelines/releases
+
 All files have the same content, just in different formats.
 
 ## Notes
